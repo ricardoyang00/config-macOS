@@ -58,7 +58,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 #### CPU monitor configuration
 **⚠️ Warning: This content contains multiple images.**
 
-<p align="center"><img src="docs/stats/stats-cpu.png">
+<p align="center"><img src="docs/stats/stats-cpu.png" width=50%>
 <p align="center" justify="center">Stats - cpu usage<br><br />
 
 <p align="center"><img src="docs/stats/stats-cpu1.png">
@@ -72,7 +72,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 
 #### RAM monitor configuration
 
-<p align="center"><img src="docs/stats/stats-ram.png">
+<p align="center"><img src="docs/stats/stats-ram.png" width=50%>
 <p align="center" justify="center">Stats - ram usage<br><br />
 
 <p align="center"><img src="docs/stats/stats-ram1.png">
