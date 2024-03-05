@@ -8,7 +8,8 @@ Here you can discover these essential apps and settings to optimize your **MacBo
 ## Easily locate the content
 - [Applications](#Applications)
   - [Rectangle](#rectangle)
-  - [Subheading 1.2](#subheading-12)
+  - [MonitorControl](#monitorcontrol)
+  - [Stats](#stats)
 - [Heading 2](#heading-2)
   - [Subheading 2.1](#subheading-21)
   - [Subheading 2.2](#subheading-22)
@@ -23,10 +24,10 @@ Free and Open source app that allows to move and resize windows in macOS using k
 
 [rectangleapp.com]("https://rectangleapp.com/")
 
-![](rectangle-config.png)
+![](docs/rectangle/rectangle-config.png)
 <p align="center" justify="center">Rectangle - configuration 1<br><br />
 
-![](rectangle-config2.png)
+![](docs/rectangle/rectangle-config2.png)
 <p align="center" justify="center">Rectangle - configuration 2<br><br />
 
 ### MonitorControl
@@ -34,10 +35,10 @@ Free and Open source app that allows to control your display's brightness and vo
 
 [GitHub repository]("https://github.com/MonitorControl/MonitorControl")
 
-![](monitorControl-mockup.png)
+![](docs/monitorControl/monitorControl-mockup.png)
 <p align="center" justify="center">MonitorControl - mockup<br><br />
 
-![](monitorControl-config.png)
+![](docs/monitorControl/monitorControl-config.png)
 <p align="center" justify="center">MonitorControl - configuration<br><br />
 
 ### Stats
@@ -45,10 +46,10 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 
 [GitHub repository]("https://github.com/exelban/stats")
 
-![](stats-mockup1.png)
+![](docs/stats/stats-mockup1.png)
 <p align="center" justify="center">Stats - mockup<br><br />
 
-![](stats-mockup2.png)
+![](docs/stats/stats-mockup2.png)
 <p align="center" justify="center">Stats - monitors available<br><br />
 
 > Personally, I mainly utilize the power, fan, CPU, and RAM usage features. However, there are plenty of other features available for you to explore at your own.
@@ -56,54 +57,54 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 #### CPU monitor configuration
 **⚠️ Warning: This content contains multiple images.**
 
-![](stats-cpu.png)
+![](docs/stats/stats-cpu.png)
 <p align="center" justify="center">Stats - cpu usage<br><br />
 
-![](stats-cpu1.png)
+![](docs/stats/stats-cpu1.png)
 <p align="center" justify="center">Stats - cpu configuration 1<br><br />
 
-![](stats-cpu2.png)
+![](docs/stats/stats-cpu2.png)
 <p align="center" justify="center">Stats - cpu configuration 2<br><br />
 
-![](stats-cpu3.png)
+![](docs/stats/stats-cpu3.png)
 <p align="center" justify="center">Stats - cpu configuration 3<br><br />
 
 #### RAM monitor configuration
 
-![](stats-ram.png)
+![](docs/stats/stats-ram.png)
 <p align="center" justify="center">Stats - ram usage<br><br />
 
-![](stats-ram1.png)
+![](docs/stats/stats-ram1.png)
 <p align="center" justify="center">Stats - ram configuration 1<br><br />
 
-![](stats-ram2.png)
+![](docs/stats/stats-ram2.png)
 <p align="center" justify="center">Stats - ram configuration 2<br><br />
 
-![](stats-ram3.png)
+![](docs/stats/stats-ram3.png)
 <p align="center" justify="center">Stats - ram configuration 3<br><br />
 
 #### FANS monitor configuration
 
-![](stats-fans.png)
+![](docs/stats/stats-fans.png)
 <p align="center" justify="center">Stats - fans usage (bottom) in RPM<br><br />
 
-![](stats-fans.png)
+![](docs/stats/stats-fans.png)
 <p align="center" justify="center">Stats - fans configuration 1<br><br />
 
-![](stats-fans2.png)
+![](docs/stats/stats-fans2.png)
 <p align="center" justify="center">Stats - fans configuration 2<br><br />
 
-![](stats-fans3.png)
+![](docs/stats/stats-fans3.png)
 <p align="center" justify="center">Stats - fans configuration 3<br><br />
 
 #### POWER monitor configuration
-![](stats-fans.png)
+![](docs/stats/stats-fans.png)
 <p align="center" justify="center">Stats - fans usage (top)<br><br />
 
-![](stats-battery1.png)
+![](docs/stats/stats-battery1.png)
 <p align="center" justify="center">Stats - power configuration 1<br><br />
 
-![](stats-battery2.png)
+![](docs/stats/stats-battery2.png)
 <p align="center" justify="center">Stats - power configuration 2<br><br />
 
 ### System Settings
