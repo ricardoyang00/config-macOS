@@ -2,8 +2,22 @@
 
 <p align="center"><img src="docs/logo.png" width=150px></p> 
 
+<p align="center">
+<a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
+</p>
+
 ## What you can find here?
 Here you can discover these essential apps and settings to optimize your **MacBook** or **Mac** for enhanced usability and productivity.
+
+## Compatibility information
+While these apps and system settings are intended to work on the most recent macOS versions and Apple Silicon processors, there may be occasional compatibility issues. Please note my device about:
+
+- MacBook Pro M3 Pro
+- macOS Sonoma
+
+> Please keep in mind that while efforts are made to ensure compatibility, it is not guaranteed to be 100% effective. 
+> In addition, always check the latest versions of the applications mentioned
+
 
 ## Easily locate the content
 - [Applications](#applications)
@@ -28,7 +42,7 @@ Here are the applications I use most. Each serves a specific purpose, which I'll
 ### Rectangle
 Free and Open source app that allows to move and resize windows in macOS using keyboard shortcuts or snap areas. 
 
-[rectangleapp.com](https://rectangleapp.com/)
+<a href="https://rectangleapp.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
 <p align="center"><img src="docs/rectangle/rectangle-config.png">
 <p align="center" justify="center">Rectangle - configuration 1<br><br />
@@ -42,7 +56,7 @@ Free and Open source app that allows to move and resize windows in macOS using k
 ### MonitorControl
 Free and Open source app that allows to control your display's brightness and volume on your Mac as if it was a native Apple Display.I particularly rely on it when connected to an external monitor.
 
-[GitHub repository](https://github.com/MonitorControl/MonitorControl)
+<a href="https://github.com/MonitorControl/MonitorControl"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
 <p align="center"><img src="docs/monitorControl/monitorControl-mockup.png" width=60%>
 <p align="center" justify="center">MonitorControl - menu bar<br><br />
@@ -55,7 +69,7 @@ Free and Open source app that allows to control your display's brightness and vo
 ### Stats
 You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
 
-[GitHub repository](https://github.com/exelban/stats)
+<a href="https://github.com/exelban/stats"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
 
 <p align="center"><img src="docs/stats/stats-mockup1.png" width=60%>
 <p align="center" justify="center">Stats - menu bar<br><br />
@@ -118,6 +132,8 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 ### iBar
 With the arrival of Apple Silicon processors, the introduction of the notch has led to limited space in the menu bar. This app enables you to group icons occupying space into a fixed folder directly on your menu bar.
 
+<a href="https://apps.apple.com/pt/app/ibar-menubar-icon-control-tool/id6443843900?l=en-GB&mt=12"><img src="https://img.shields.io/badge/download-here-purple.svg" height=20px></a>
+
 <p align="center"><img src="docs/iBar/ibar-mockup.png">
 <p align="center" justify="center">iBar - menu bar<br><br />
 
@@ -128,7 +144,7 @@ In my case, I usually hide everything except the stats monitor.
 ### Alfred
 An upgraded version of Spotlight for Mac, offering enhanced search capabilities both locally and on the web, enabling more detailed and comprehensive searches.
 
-[www.alfredapp.com](https://www.alfredapp.com/)
+<a href="https://www.alfredapp.com/"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
 
 <p align="center"><img src="docs/alfred/alfred-mockup.png">
 <p align="center" justify="center">Alfred - search functionality<br><br />
@@ -141,7 +157,7 @@ An upgraded version of Spotlight for Mac, offering enhanced search capabilities 
 ### MOS
 Frustrated with the default mouse scrolling direction on your Mac? This app allows you to reverse the "unnatural" external mouse scroll direction to your preference. Simply download and start using it hassle-free.
 
-[mos.caldis.me](https://mos.caldis.me/)
+<a href="https://mos.caldis.me/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
 <p align="center"><img src="docs/mos/mos-config.png">
 <p align="center" justify="center">MOS - configuration<br><br />
@@ -155,7 +171,7 @@ You may have also heard about the [lifespan of lithium-ion batteries](https://ww
 
 Enter **Aldente** – this app offers a solution by allowing you to set a cap on your battery's charge and ensure that the system primarily draws power from the adapter rather than the battery. I highly recommend upgrading to the PRO version for deeper management of your Mac's battery health, although the free version is also enough for basic basic functionalities.
 
-[GitHub repository](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
+<a href="https://github.com/AppHouseKitchen/AlDente-Charge-Limiter"><img src="https://img.shields.io/badge/download-here-red.svg" height=20px></a>
 
 <p align="center"><img src="docs/aldente/aldente-mockup.png">
 <p align="center" justify="center">Aldente - menu bar<br><br />
@@ -180,7 +196,7 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 ### TopNotch
 You can hide or show the notch on the new MacBooks as desired.
 
-[topnotch.app](https://topnotch.app/)
+<a href="https://topnotch.app/"><img src="https://img.shields.io/badge/download-here-pink.svg" height=20px></a>
 
 <p align="center"><img src="docs/topNotch/topnotch-off.png">
 <p align="center" justify="center">Top Notch - disabled<br><br />
@@ -193,7 +209,7 @@ You can hide or show the notch on the new MacBooks as desired.
 ### AltTab
 It brings the power of Windows’s “alt-tab” window switcher to macOS or customize as you desired.
 
-[alt-tab-macos.netlify.app](https://alt-tab-macos.netlify.app/)
+<a href="https://alt-tab-macos.netlify.app/"><img src="https://img.shields.io/badge/download-here-yellow.svg" height=20px></a>
 
 <p align="center"><img src="docs/alttab/alttab-mockup.png">
 <p align="center" justify="center">Alt Tab - feature<br><br />
@@ -206,7 +222,7 @@ It brings the power of Windows’s “alt-tab” window switcher to macOS or cus
 ### Shottr
 A multifunctional screenshot tool that offers a range of features to enhance your screenshot-taking experience. All the screenshots in this document were captured using Shottr.
 
-[shottr.cc](https://shottr.cc/)
+<a href="https://shottr.cc/"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
 
 <p align="center"><img src="docs/shottr/shottr-config.png">
 <p align="center" justify="center">Shottr - configuration<br><br />
