@@ -230,3 +230,5 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 [⬅️ Back to Index](#easily-locate-the-content)
 
 ## System Settings
+
+### Dock Speed
