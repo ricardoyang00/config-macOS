@@ -136,5 +136,14 @@ Frustrated with the default mouse scrolling direction on your Mac? This app allo
 <p align="center"><img src="docs/mos/mos-config.png">
 <p align="center" justify="center">MOS - configuration<br><br />
 
+### AlDente
+If you, like me, often keep your MacBook connected to the charger for extended periods, you might be concerned about the health of your battery. Continuous charging at 100% can potentially cause chemical and irreversible damage to the battery.
+
+You may have also heard about the [lifespan of lithium-ion batteries](https://www.apple.com/batteries/why-lithium-ion/), typically around 1000 charge cycles. When your MacBook is constantly plugged in, the system may draw power from the battery even while it's charging, further accelerating its degradation.
+
+Enter **Aldente** – this app offers a solution by allowing you to set a cap on your battery's charge and ensure that the system primarily draws power from the adapter rather than the battery. I highly recommend upgrading to the PRO version for deeper management of your Mac's battery health, although the free version is also enough for basic basic functionalities.
+
+[GitHub repository](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
+
 
 ## System Settings
