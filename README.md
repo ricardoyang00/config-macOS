@@ -239,12 +239,10 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 ### Dock Speed
 Occasionally, the Mac dock occupies space on our desktop. You can use the key combination **⌥⌘D** to hide/show the dock. However, the animation for the dock to reappear is too slow.
 
-
 - To make the Dock **instantly** leap back into view when it’s needed, rather than slide, type the following in your terminal:
-```bash
+```zsh
 defaults write com.apple.dock autohide-time-modifier -int 0; killall Dock
 ```
-
 
 - If you’d like the animation for the dock to reappear to last for a **split-second**, try the following:
 ```bash
@@ -252,7 +250,6 @@ defaults write com.apple.dock autohide-time-modifier -float 0.15; killall Dock
 ```
 
 > To explain, changing "0.15" with any number can let you tailor things as it represents the time in seconds taken for the dock to reappear fully.
-
 
 - To **revert back** to the default sliding effect, type the following:
 ```bash
