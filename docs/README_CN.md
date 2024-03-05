@@ -142,7 +142,7 @@
 <p align="center"><img src="iBar/ibar-mockup.png">
 <p align="center" justify="center">iBar - menu bar<br><br />
 
-In my case, I usually hide everything except the stats monitor.
+就我而言，我通常会隐藏除统计监视器之外的所有内容。
 <p align="center"><img src="iBar/ibar-config.png">
 <p align="center" justify="center">iBar - configuration<br><br />
 
