@@ -98,7 +98,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center" justify="center">Stats - fans configuration 2<br><br />
 
 #### POWER monitor configuration
-<p align="center"><img src="docs/stats/stats-fans.png">
+<p align="center"><img src="docs/stats/stats-fans.png" width=50%>
 <p align="center" justify="center">Stats - fans usage (top)<br><br />
 
 <p align="center"><img src="docs/stats/stats-battery1.png">
@@ -162,5 +162,18 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 
 <p align="center"><img src="docs/aldente/aldente-premium4.png">
 <p align="center" justify="center">Aldente - premium functionalities 4<br><br />
+
+### Top Notch
+You can hide or show the notch on the new MacBooks as desired.
+
+[topnotch.app](https://topnotch.app/)
+
+<p align="center"><img src="docs/topNotch/topnotch-off.png">
+<p align="center" justify="center">Top Notch - disabled<br><br />
+
+<p align="center"><img src="docs/topNotch/topnotch-on.png">
+<p align="center" justify="center">Top Notch - enabled<br><br />
+
+
 
 ## System Settings
