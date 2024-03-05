@@ -129,6 +129,8 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="docs/stats/stats-battery2.png">
 <p align="center" justify="center">Stats - power configuration 2<br><br />
 
+[⬅️ Back to Index](#easily-locate-the-content)
+
 ### iBar
 With the arrival of Apple Silicon processors, the introduction of the notch has led to limited space in the menu bar. This app enables you to group icons occupying space into a fixed folder directly on your menu bar.
 
@@ -140,6 +142,8 @@ With the arrival of Apple Silicon processors, the introduction of the notch has 
 In my case, I usually hide everything except the stats monitor.
 <p align="center"><img src="docs/iBar/ibar-config.png">
 <p align="center" justify="center">iBar - configuration<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
 
 ### Alfred
 An upgraded version of Spotlight for Mac, offering enhanced search capabilities both locally and on the web, enabling more detailed and comprehensive searches.
@@ -232,3 +236,11 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 ## System Settings
 
 ### Dock Speed
+Occasionally, the Mac dock occupies space on our desktop. You can use the key combination **⌥⌘D** to hide/show the dock.
+
+However, the animation for the dock to reappear is too slow.
+
+To make the Dock instantly leap back into view when it’s needed, rather than slide, type the following:
+```bash
+defaults write com.apple.dock autohide-time-modifier -int 0; killall Dock
+```
