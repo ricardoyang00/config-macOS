@@ -22,7 +22,7 @@ Here are the applications I use most. Each serves a specific purpose, which I'll
 ### Rectangle
 Free and Open source app that allows to move and resize windows in macOS using keyboard shortcuts or snap areas. 
 
-[rectangleapp.com]("https://rectangleapp.com/")
+[rectangleapp.com](https://rectangleapp.com/)
 
 <p align="center"><img src="docs/rectangle/rectangle-config.png">
 <p align="center" justify="center">Rectangle - configuration 1<br><br />
@@ -34,7 +34,7 @@ Free and Open source app that allows to move and resize windows in macOS using k
 ### MonitorControl
 Free and Open source app that allows to control your display's brightness and volume on your Mac as if it was a native Apple Display.I particularly rely on it when connected to an external monitor.
 
-[GitHub repository]("https://github.com/MonitorControl/MonitorControl")
+[GitHub repository](https://github.com/MonitorControl/MonitorControl)
 
 <p align="center"><img src="docs/monitorControl/monitorControl-mockup.png">
 <p align="center" justify="center">MonitorControl - mockup<br><br />
@@ -45,7 +45,7 @@ Free and Open source app that allows to control your display's brightness and vo
 ### Stats
 You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
 
-![GitHub repository]("https://github.com/exelban/stats")
+[GitHub repository](https://github.com/exelban/stats)
 
 <p align="center"><img src="docs/stats/stats-mockup1.png" width=60%>
 <p align="center" justify="center">Stats - mockup<br><br />
