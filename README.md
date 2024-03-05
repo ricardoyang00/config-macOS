@@ -148,6 +148,9 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 <p align="center"><img src="docs/aldente/aldente-mockup.png">
 <p align="center" justify="center">Aldente - menu bar<br><br />
 
+<p align="center"><img src="docs/aldente/battery-not-charging.png">
+<p align="center" justify="center">Aldente - system battery not charging<br><br />
+
 <p align="center"><img src="docs/aldente/aldente-premium1.png">
 <p align="center" justify="center">Aldente - premium functionalities 1<br><br />
 
