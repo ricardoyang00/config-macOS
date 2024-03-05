@@ -47,7 +47,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 
 [GitHub repository]("https://github.com/exelban/stats")
 
-<p align="center"><img src="docs/stats/stats-mockup1.png">
+<p align="center"><img src="docs/stats/stats-mockup1.png" width=70%>
 <p align="center" justify="center">Stats - mockup<br><br />
 
 <p align="center"><img src="docs/stats/stats-mockup2.png">
