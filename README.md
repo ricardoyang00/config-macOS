@@ -1,4 +1,4 @@
-# Configurate your MACS
+# Configurate your MAC
 
 <p align="center"><img src="docs/logo.png" width=150px></p> 
 
