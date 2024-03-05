@@ -36,7 +36,7 @@ Free and Open source app that allows to control your display's brightness and vo
 
 [GitHub repository](https://github.com/MonitorControl/MonitorControl)
 
-<p align="center"><img src="docs/monitorControl/monitorControl-mockup.png">
+<p align="center"><img src="docs/monitorControl/monitorControl-mockup.png" width=60%>
 <p align="center" justify="center">MonitorControl - mockup<br><br />
 
 <p align="center"><img src="docs/monitorControl/monitorControl-config.png">
