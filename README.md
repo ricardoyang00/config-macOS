@@ -33,6 +33,7 @@ While these apps and system settings are intended to work on the most recent mac
   - [Shottr](#shottr)
 
 - [System Settings](#system-settings)
+  - [Dock Hide/Show Animation Speed](#dock-speed)
 
 ## Applications
 Here are the applications I use most. Each serves a specific purpose, which I'll outline, and offers functionality that complements the default macOS utilities. All of these applications are set to **start at login**.
@@ -238,7 +239,21 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 ### Dock Speed
 Occasionally, the Mac dock occupies space on our desktop. You can use the key combination **⌥⌘D** to hide/show the dock. However, the animation for the dock to reappear is too slow.
 
-1. To make the Dock instantly leap back into view when it’s needed, rather than slide, type the following in your terminal:
+To make the Dock **instantly** leap back into view when it’s needed, rather than slide, type the following in your terminal:
 ```bash
 defaults write com.apple.dock autohide-time-modifier -int 0; killall Dock
 ```
+
+If you’d like the animation for the dock to reappear to last for a **split-second**, try the following:
+```bash
+defaults write com.apple.dock autohide-time-modifier -float 0.15; killall Dock
+```
+
+> To explain, changing "0.15" with any number can let you tailor things as it represents the time in seconds taken for the dock to reappear fully.
+
+To **revert back** to the default sliding effect, type the following:
+```bash
+defaults delete com.apple.dock autohide-time-modifier; killall Dock
+```
+
+[⬅️ Back to Index](#easily-locate-the-content)
