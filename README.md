@@ -174,6 +174,15 @@ You can hide or show the notch on the new MacBooks as desired.
 <p align="center"><img src="docs/topNotch/topnotch-on.png">
 <p align="center" justify="center">Top Notch - enabled<br><br />
 
+### Alt Tab
+It brings the power of Windows’s “alt-tab” window switcher to macOS or customize as you desired.
 
+[alt-tab-macos.netlify.app](https://alt-tab-macos.netlify.app/)
+
+<p align="center"><img src="docs/alttab/alttab-mockup.png">
+<p align="center" justify="center">Alt Tab - feature<br><br />
+
+<p align="center"><img src="docs/alttab/alttab-config.png">
+<p align="center" justify="center">Alt Tab - configuration<br><br />
 
 ## System Settings
