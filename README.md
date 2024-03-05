@@ -236,11 +236,9 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 ## System Settings
 
 ### Dock Speed
-Occasionally, the Mac dock occupies space on our desktop. You can use the key combination **⌥⌘D** to hide/show the dock.
+Occasionally, the Mac dock occupies space on our desktop. You can use the key combination **⌥⌘D** to hide/show the dock. However, the animation for the dock to reappear is too slow.
 
-However, the animation for the dock to reappear is too slow.
-
-To make the Dock instantly leap back into view when it’s needed, rather than slide, type the following:
+1. To make the Dock instantly leap back into view when it’s needed, rather than slide, type the following in your terminal:
 ```bash
 defaults write com.apple.dock autohide-time-modifier -int 0; killall Dock
 ```
