@@ -111,4 +111,8 @@ With the arrival of Apple Silicon processors, the introduction of the notch has 
 <p align="center"><img src="docs/iBar/ibar-mockup.png">
 <p align="center" justify="center">iBar - mockup<br><br />
 
+In my case, I usually hide everything except the stats monitor.
+<p align="center"><img src="docs/iBar/ibar-config.png">
+<p align="center" justify="center">iBar - configuration<br><br />
+
 ## System Settings
