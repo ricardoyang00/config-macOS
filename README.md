@@ -40,4 +40,37 @@ Free and Open source app that allows to control your display's brightness and vo
 ![](monitorControl-config.png)
 <p align="center" justify="center">MonitorControl - configuration<br><br />
 
+### Stats
+You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
+
+[GitHub repository]("https://github.com/exelban/stats")
+
+![](stats-mockup1.png)
+<p align="center" justify="center">Stats - mockup<br><br />
+
+![](stats-mockup2.png)
+<p align="center" justify="center">Stats - monitors available<br><br />
+
+> Personally, I mainly utilize the power, fan, CPU, and RAM usage features. However, there are plenty of other features available for you to explore at your own.
+
+#### CPU monitor configuration
+**⚠️ Warning: This content contains multiple images.**
+
+![](stats-cpu.png)
+<p align="center" justify="center">Stats - cpu usage<br><br />
+
+![](stats-cpu1.png)
+<p align="center" justify="center">Stats - cpu configuration 1<br><br />
+
+![](stats-cpu2.png)
+<p align="center" justify="center">Stats - cpu configuration 2<br><br />
+
+![](stats-cpu3.png)
+<p align="center" justify="center">Stats - cpu configuration 3<br><br />
+
+![](stats-cpu4.png)
+<p align="center" justify="center">Stats - cpu configuration 4<br><br />
+
+
+
 ### System Settings
