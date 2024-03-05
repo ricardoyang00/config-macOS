@@ -68,8 +68,19 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 ![](stats-cpu3.png)
 <p align="center" justify="center">Stats - cpu configuration 3<br><br />
 
-![](stats-cpu4.png)
-<p align="center" justify="center">Stats - cpu configuration 4<br><br />
+#### RAM monitor configuration
+
+![](stats-ram.png)
+<p align="center" justify="center">Stats - ram usage<br><br />
+
+![](stats-ram1.png)
+<p align="center" justify="center">Stats - ram configuration 1<br><br />
+
+![](stats-ram2.png)
+<p align="center" justify="center">Stats - ram configuration 2<br><br />
+
+![](stats-ram3.png)
+<p align="center" justify="center">Stats - ram configuration 3<br><br />
 
 
 
