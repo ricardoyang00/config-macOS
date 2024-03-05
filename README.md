@@ -82,6 +82,28 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 ![](stats-ram3.png)
 <p align="center" justify="center">Stats - ram configuration 3<br><br />
 
+#### FANS monitor configuration
 
+![](stats-fans.png)
+<p align="center" justify="center">Stats - fans usage (bottom) in RPM<br><br />
+
+![](stats-fans.png)
+<p align="center" justify="center">Stats - fans configuration 1<br><br />
+
+![](stats-fans2.png)
+<p align="center" justify="center">Stats - fans configuration 2<br><br />
+
+![](stats-fans3.png)
+<p align="center" justify="center">Stats - fans configuration 3<br><br />
+
+#### POWER monitor configuration
+![](stats-fans.png)
+<p align="center" justify="center">Stats - fans usage (top)<br><br />
+
+![](stats-battery1.png)
+<p align="center" justify="center">Stats - power configuration 1<br><br />
+
+![](stats-battery2.png)
+<p align="center" justify="center">Stats - power configuration 2<br><br />
 
 ### System Settings
