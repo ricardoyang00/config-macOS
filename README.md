@@ -6,15 +6,19 @@
 Here you can discover these essential apps and settings to optimize your **MacBook** or **Mac** for enhanced usability and productivity.
 
 ## Easily locate the content
-- [Applications](#Applications)
+- [Applications](#applications)
   - [Rectangle](#rectangle)
   - [MonitorControl](#monitorcontrol)
   - [Stats](#stats)
   - [iBar](#ibar)
   - [Alfred](#alfred)
-- [Heading 2](#heading-2)
-  - [Subheading 2.1](#subheading-21)
-  - [Subheading 2.2](#subheading-22)
+  - [MOS](#mos)
+  - [AlDente](#aldente)
+  - [TopNotch](#topnotch)
+  - [AltTab](#alttab)
+  - [Shottr](#shottr)
+
+- [System Settings](#system-settings)
 
 ## Applications
 Here are the applications I use most. Each serves a specific purpose, which I'll outline, and offers functionality that complements the default macOS utilities. All of these applications are set to **start at login**.
@@ -33,6 +37,8 @@ Free and Open source app that allows to move and resize windows in macOS using k
 <p align="center"><img src="docs/rectangle/rectangle-config2.png">
 <p align="center" justify="center">Rectangle - configuration 2<br><br />
 
+[⬅️ Back to Index](#easily-locate-the-content)
+
 ### MonitorControl
 Free and Open source app that allows to control your display's brightness and volume on your Mac as if it was a native Apple Display.I particularly rely on it when connected to an external monitor.
 
@@ -43,6 +49,8 @@ Free and Open source app that allows to control your display's brightness and vo
 
 <p align="center"><img src="docs/monitorControl/monitorControl-config.png">
 <p align="center" justify="center">MonitorControl - configuration<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
 
 ### Stats
 You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
@@ -128,6 +136,8 @@ An upgraded version of Spotlight for Mac, offering enhanced search capabilities 
 <p align="center"><img src="docs/alfred/alfred-config.png">
 <p align="center" justify="center">Alfred - configuration<br><br />
 
+[⬅️ Back to Index](#easily-locate-the-content)
+
 ### MOS
 Frustrated with the default mouse scrolling direction on your Mac? This app allows you to reverse the "unnatural" external mouse scroll direction to your preference. Simply download and start using it hassle-free.
 
@@ -135,6 +145,8 @@ Frustrated with the default mouse scrolling direction on your Mac? This app allo
 
 <p align="center"><img src="docs/mos/mos-config.png">
 <p align="center" justify="center">MOS - configuration<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
 
 ### AlDente
 If you, like me, often keep your MacBook connected to the charger for extended periods, you might be concerned about the health of your battery. Continuous charging at 100% can potentially cause chemical and irreversible damage to the battery.
@@ -163,7 +175,9 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 <p align="center"><img src="docs/aldente/aldente-premium4.png">
 <p align="center" justify="center">Aldente - premium functionalities 4<br><br />
 
-### Top Notch
+[⬅️ Back to Index](#easily-locate-the-content)
+
+### TopNotch
 You can hide or show the notch on the new MacBooks as desired.
 
 [topnotch.app](https://topnotch.app/)
@@ -174,7 +188,9 @@ You can hide or show the notch on the new MacBooks as desired.
 <p align="center"><img src="docs/topNotch/topnotch-on.png">
 <p align="center" justify="center">Top Notch - enabled<br><br />
 
-### Alt Tab
+[⬅️ Back to Index](#easily-locate-the-content)
+
+### AltTab
 It brings the power of Windows’s “alt-tab” window switcher to macOS or customize as you desired.
 
 [alt-tab-macos.netlify.app](https://alt-tab-macos.netlify.app/)
@@ -184,5 +200,17 @@ It brings the power of Windows’s “alt-tab” window switcher to macOS or cus
 
 <p align="center"><img src="docs/alttab/alttab-config.png">
 <p align="center" justify="center">Alt Tab - configuration<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
+
+### Shottr
+A multifunctional screenshot tool that offers a range of features to enhance your screenshot-taking experience. All the screenshots in this document were captured using Shottr.
+
+[shottr.cc](https://shottr.cc/)
+
+<p align="center"><img src="docs/shottr/shottr-config.png">
+<p align="center" justify="center">Shottr - configuration<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
 
 ## System Settings
