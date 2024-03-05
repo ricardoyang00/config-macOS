@@ -33,7 +33,9 @@ While these apps and system settings are intended to work on the most recent mac
   - [Shottr](#shottr)
 
 - [System Settings](#system-settings)
-  - [Dock Hide/Show Animation Speed](#dock-speed)
+  - [Dock Hide/Show Animation Speed](#dock-speed)\
+
+- [Contributions](#contributions)
 
 ## Applications
 Here are the applications I use most. Each serves a specific purpose, which I'll outline, and offers functionality that complements the default macOS utilities. All of these applications are set to **start at login**.
