@@ -263,3 +263,4 @@ defaults delete com.apple.dock autohide-time-modifier; killall Dock
 
 ## Contributions  
 I will monitor this repository and make upgrades as needed. Contributions are encouraged and open, so feel free to make adjustments and modifications as necessary.
+
