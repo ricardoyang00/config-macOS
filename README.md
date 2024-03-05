@@ -145,5 +145,19 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 
 [GitHub repository](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)
 
+<p align="center"><img src="docs/aldente/aldente-mockup.png">
+<p align="center" justify="center">Aldente - menu bar<br><br />
+
+<p align="center"><img src="docs/aldente/aldente-premium1.png">
+<p align="center" justify="center">Aldente - premium functionalities 1<br><br />
+
+<p align="center"><img src="docs/aldente/aldente-premium2.png">
+<p align="center" justify="center">Aldente - premium functionalities 2<br><br />
+
+<p align="center"><img src="docs/aldente/aldente-premium3.png">
+<p align="center" justify="center">Aldente - premium functionalities 3<br><br />
+
+<p align="center"><img src="docs/aldente/aldente-premium4.png">
+<p align="center" justify="center">Aldente - premium functionalities 4<br><br />
 
 ## System Settings
