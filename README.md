@@ -1,6 +1,6 @@
 # Configurate your MACS
 
-<p align="center"><img src="logo.png" width=150px></p> 
+<p align="center"><img src="docs/logo.png" width=150px></p> 
 
 ## What you can find here?
 Here you can discover these essential apps and settings to optimize your **MacBook** or **Mac** for enhanced usability and productivity.
@@ -17,17 +17,18 @@ Here you can discover these essential apps and settings to optimize your **MacBo
 ## Applications
 Here are the applications I use most. Each serves a specific purpose, which I'll outline, and offers functionality that complements the default macOS utilities. All of these applications are set to **start at login**.
 
-<p align="center"><img src="applications.png" width=auto></p> 
+<p align="center"><img src="docs/applications.png" width=auto></p> 
 
 ### Rectangle
 Free and Open source app that allows to move and resize windows in macOS using keyboard shortcuts or snap areas. 
 
 [rectangleapp.com]("https://rectangleapp.com/")
 
-![](docs/rectangle/rectangle-config.png)
+<p align="center"><img src="docs/rectangle/rectangle-config.png">
 <p align="center" justify="center">Rectangle - configuration 1<br><br />
 
-![](docs/rectangle/rectangle-config2.png)
+
+<p align="center"><img src="docs/rectangle/rectangle-config2.png">
 <p align="center" justify="center">Rectangle - configuration 2<br><br />
 
 ### MonitorControl
@@ -35,10 +36,10 @@ Free and Open source app that allows to control your display's brightness and vo
 
 [GitHub repository]("https://github.com/MonitorControl/MonitorControl")
 
-![](docs/monitorControl/monitorControl-mockup.png)
+<p align="center"><img src="docs/monitorControl/monitorControl-mockup.png">
 <p align="center" justify="center">MonitorControl - mockup<br><br />
 
-![](docs/monitorControl/monitorControl-config.png)
+<p align="center"><img src="docs/monitorControl/monitorControl-config.png">
 <p align="center" justify="center">MonitorControl - configuration<br><br />
 
 ### Stats
@@ -46,10 +47,10 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 
 [GitHub repository]("https://github.com/exelban/stats")
 
-![](docs/stats/stats-mockup1.png)
+<p align="center"><img src="docs/stats/stats-mockup1.png">
 <p align="center" justify="center">Stats - mockup<br><br />
 
-![](docs/stats/stats-mockup2.png)
+<p align="center"><img src="docs/stats/stats-mockup2.png">
 <p align="center" justify="center">Stats - monitors available<br><br />
 
 > Personally, I mainly utilize the power, fan, CPU, and RAM usage features. However, there are plenty of other features available for you to explore at your own.
@@ -57,54 +58,60 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 #### CPU monitor configuration
 **⚠️ Warning: This content contains multiple images.**
 
-![](docs/stats/stats-cpu.png)
+<p align="center"><img src="docs/stats/stats-cpu.png">
 <p align="center" justify="center">Stats - cpu usage<br><br />
 
-![](docs/stats/stats-cpu1.png)
+<p align="center"><img src="docs/stats/stats-cpu1.png">
 <p align="center" justify="center">Stats - cpu configuration 1<br><br />
 
-![](docs/stats/stats-cpu2.png)
+<p align="center"><img src="docs/stats/stats-cpu2.png">
 <p align="center" justify="center">Stats - cpu configuration 2<br><br />
 
-![](docs/stats/stats-cpu3.png)
+<p align="center"><img src="docs/stats/stats-cpu3.png">
 <p align="center" justify="center">Stats - cpu configuration 3<br><br />
 
 #### RAM monitor configuration
 
-![](docs/stats/stats-ram.png)
+<p align="center"><img src="docs/stats/stats-ram.png">
 <p align="center" justify="center">Stats - ram usage<br><br />
 
-![](docs/stats/stats-ram1.png)
+<p align="center"><img src="docs/stats/stats-ram1.png">
 <p align="center" justify="center">Stats - ram configuration 1<br><br />
 
-![](docs/stats/stats-ram2.png)
+<p align="center"><img src="docs/stats/stats-ram2.png">
 <p align="center" justify="center">Stats - ram configuration 2<br><br />
 
-![](docs/stats/stats-ram3.png)
+<p align="center"><img src="docs/stats/stats-ram3.png">
 <p align="center" justify="center">Stats - ram configuration 3<br><br />
 
 #### FANS monitor configuration
 
-![](docs/stats/stats-fans.png)
+<p align="center"><img src="docs/stats/stats-fans.png">
 <p align="center" justify="center">Stats - fans usage (bottom) in RPM<br><br />
 
-![](docs/stats/stats-fans.png)
+<p align="center"><img src="docs/stats/stats-fans.png">
 <p align="center" justify="center">Stats - fans configuration 1<br><br />
 
-![](docs/stats/stats-fans2.png)
+<p align="center"><img src="docs/stats/stats-fans2.png">
 <p align="center" justify="center">Stats - fans configuration 2<br><br />
 
-![](docs/stats/stats-fans3.png)
+<p align="center"><img src="docs/stats/stats-fans3.png">
 <p align="center" justify="center">Stats - fans configuration 3<br><br />
 
 #### POWER monitor configuration
-![](docs/stats/stats-fans.png)
+<p align="center"><img src="docs/stats/stats-fans.png">
 <p align="center" justify="center">Stats - fans usage (top)<br><br />
 
-![](docs/stats/stats-battery1.png)
+<p align="center"><img src="docs/stats/stats-battery1.png">
 <p align="center" justify="center">Stats - power configuration 1<br><br />
 
-![](docs/stats/stats-battery2.png)
+<p align="center"><img src="docs/stats/stats-battery2.png">
 <p align="center" justify="center">Stats - power configuration 2<br><br />
 
-### System Settings
+### iBar
+With the arrival of Apple Silicon processors, the introduction of the notch has led to limited space in the menu bar. This app enables you to group icons occupying space into a fixed folder directly on your menu bar.
+
+<p align="center"><img src="docs/iBar/ibar-mockup.png">
+<p align="center" justify="center">iBar - mockup<br><br />
+
+## System Settings
