@@ -135,7 +135,7 @@
 [⬅️ 返回索引](#轻松定位内容)
 
 ### iBar
-随着苹果硅处理器的问世，刘海的引入导致菜单栏空间有限。有了这款 app，你可以直接在菜单栏上将占据空间的图标归类到一个固定的文件夹中。
+随着apple silicon处理器的问世，刘海的引入导致菜单栏空间有限。有了这款 app，你可以直接在菜单栏上将占据空间的图标归类到一个固定的文件夹中。
 
 <a href="https://apps.apple.com/pt/app/ibar-menubar-icon-control-tool/id6443843900?l=en-GB&mt=12"><img src="https://img.shields.io/badge/download-here-purple.svg" height=20px></a>
 
