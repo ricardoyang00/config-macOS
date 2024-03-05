@@ -33,7 +33,7 @@ While these apps and system settings are intended to work on the most recent mac
   - [Shottr](#shottr)
 
 - [System Settings](#system-settings)
-  - [Dock Hide/Show Animation Speed](#dock-speed)\
+  - [Dock Hide/Show Animation Speed](#dock-speed)
 
 - [Contributions](#contributions)
 
