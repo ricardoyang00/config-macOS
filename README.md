@@ -86,17 +86,14 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 
 #### FANS monitor configuration
 
-<p align="center"><img src="docs/stats/stats-fans.png">
+<p align="center"><img src="docs/stats/stats-fans.png" width=50%>
 <p align="center" justify="center">Stats - fans usage (bottom) in RPM<br><br />
 
-<p align="center"><img src="docs/stats/stats-fans.png">
+<p align="center"><img src="docs/stats/stats-fans1.png">
 <p align="center" justify="center">Stats - fans configuration 1<br><br />
 
 <p align="center"><img src="docs/stats/stats-fans2.png">
 <p align="center" justify="center">Stats - fans configuration 2<br><br />
-
-<p align="center"><img src="docs/stats/stats-fans3.png">
-<p align="center" justify="center">Stats - fans configuration 3<br><br />
 
 #### POWER monitor configuration
 <p align="center"><img src="docs/stats/stats-fans.png">
