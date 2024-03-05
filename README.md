@@ -10,6 +10,8 @@ Here you can discover these essential apps and settings to optimize your **MacBo
   - [Rectangle](#rectangle)
   - [MonitorControl](#monitorcontrol)
   - [Stats](#stats)
+  - [iBar](#ibar)
+  - [Alfred](#alfred)
 - [Heading 2](#heading-2)
   - [Subheading 2.1](#subheading-21)
   - [Subheading 2.2](#subheading-22)
@@ -37,7 +39,7 @@ Free and Open source app that allows to control your display's brightness and vo
 [GitHub repository](https://github.com/MonitorControl/MonitorControl)
 
 <p align="center"><img src="docs/monitorControl/monitorControl-mockup.png" width=60%>
-<p align="center" justify="center">MonitorControl - mockup<br><br />
+<p align="center" justify="center">MonitorControl - menu bar<br><br />
 
 <p align="center"><img src="docs/monitorControl/monitorControl-config.png">
 <p align="center" justify="center">MonitorControl - configuration<br><br />
@@ -48,7 +50,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 [GitHub repository](https://github.com/exelban/stats)
 
 <p align="center"><img src="docs/stats/stats-mockup1.png" width=60%>
-<p align="center" justify="center">Stats - mockup<br><br />
+<p align="center" justify="center">Stats - menu bar<br><br />
 
 <p align="center"><img src="docs/stats/stats-mockup2.png">
 <p align="center" justify="center">Stats - monitors available<br><br />
@@ -109,10 +111,21 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 With the arrival of Apple Silicon processors, the introduction of the notch has led to limited space in the menu bar. This app enables you to group icons occupying space into a fixed folder directly on your menu bar.
 
 <p align="center"><img src="docs/iBar/ibar-mockup.png">
-<p align="center" justify="center">iBar - mockup<br><br />
+<p align="center" justify="center">iBar - menu bar<br><br />
 
 In my case, I usually hide everything except the stats monitor.
 <p align="center"><img src="docs/iBar/ibar-config.png">
 <p align="center" justify="center">iBar - configuration<br><br />
+
+### Alfred
+An upgraded version of Spotlight for Mac, offering enhanced search capabilities both locally and on the web, enabling more detailed and comprehensive searches.
+
+[www.alfredapp.com](https://www.alfredapp.com/)
+
+<p align="center"><img src="docs/alfred/alfred-mockup.png">
+<p align="center" justify="center">Alfred - search functionality<br><br />
+
+<p align="center"><img src="docs/alfred/alfred-config.png">
+<p align="center" justify="center">Alfred - configuration<br><br />
 
 ## System Settings
