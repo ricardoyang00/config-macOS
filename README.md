@@ -45,9 +45,9 @@ Free and Open source app that allows to control your display's brightness and vo
 ### Stats
 You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
 
-[GitHub repository]("https://github.com/exelban/stats")
+![GitHub repository]("https://github.com/exelban/stats")
 
-<p align="center"><img src="docs/stats/stats-mockup1.png" width=70%>
+<p align="center"><img src="docs/stats/stats-mockup1.png" width=60%>
 <p align="center" justify="center">Stats - mockup<br><br />
 
 <p align="center"><img src="docs/stats/stats-mockup2.png">
