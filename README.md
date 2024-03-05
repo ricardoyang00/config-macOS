@@ -128,4 +128,13 @@ An upgraded version of Spotlight for Mac, offering enhanced search capabilities 
 <p align="center"><img src="docs/alfred/alfred-config.png">
 <p align="center" justify="center">Alfred - configuration<br><br />
 
+### MOS
+Frustrated with the default mouse scrolling direction on your Mac? This app allows you to reverse the "unnatural" external mouse scroll direction to your preference. Simply download and start using it hassle-free.
+
+[mos.caldis.me](https://mos.caldis.me/)
+
+<p align="center"><img src="docs/mos/mos-config.png">
+<p align="center" justify="center">MOS - configuration<br><br />
+
+
 ## System Settings
