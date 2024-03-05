@@ -1,5 +1,4 @@
-# Configurate your MAC
-
+# 设置您的 MAC
 <p align="center"><img src="logo.png" width=150px></p> 
 
 <p align="center">
@@ -7,21 +6,21 @@
 <a href="../README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
 </p>
 
-## What you can find here?
-Here you can discover these essential apps and settings to optimize your **MacBook** or **Mac** for enhanced usability and productivity.
+## 您能在这里找到什么？
+在这里，你可以发现一些基本的应用程序和设置，优化你的**MacBook**或**Mac**，提高可用性和生产力。
 
-## Compatibility information
-While these apps and system settings are intended to work on the most recent macOS versions and Apple Silicon processors, there may be occasional compatibility issues. Please note my device about:
+## 兼容性信息
+虽然这些应用程序和系统设置旨在适用于最新的 macOS 版本和 Apple Silicon 处理器，但可能偶尔会出现兼容性问题。我的设备：
 
 - MacBook Pro M3 Pro
 - macOS Sonoma
 
-> Please keep in mind that while efforts are made to ensure compatibility, it is not guaranteed to be 100% effective. 
-> In addition, always check the latest versions of the applications mentioned
+> 虽然我们努力确保兼容性，但并不保证百分之百有效。
+> 此外，请务必检查上述应用程序的最新版本。
 
 
-## Easily locate the content
-- [Applications](#applications)
+## 轻松定位内容
+- [应用程序](#应用程序)
   - [Rectangle](#rectangle)
   - [MonitorControl](#monitorcontrol)
   - [Stats](#stats)
@@ -33,18 +32,18 @@ While these apps and system settings are intended to work on the most recent mac
   - [AltTab](#alttab)
   - [Shottr](#shottr)
 
-- [System Settings](#system-settings)
-  - [Dock Hide/Show Animation Speed](#dock-speed)
+- [系统设置](#系统设置)
+  - [Dock栏响应速度](#dock栏响应速度)
 
-- [Contributions](#contributions)
+- [贡献](#贡献)
 
-## Applications
-Here are the applications I use most. Each serves a specific purpose, which I'll outline, and offers functionality that complements the default macOS utilities. All of these applications are set to **start at login**.
+## 应用程序
+以下是我最常用的应用程序。每个应用程序都有其特定用途，并提供补充 macOS 默认实用工具的功能。所有这些应用程序都设置为**登录时启动**。
 
 <p align="center"><img src="applications.png" width=auto></p> 
 
 ### Rectangle
-Free and Open source app that allows to move and resize windows in macOS using keyboard shortcuts or snap areas. 
+免费的开源应用程序，允许使用键盘快捷键或抓取区域在 macOS 中移动和调整窗口大小。
 
 <a href="https://rectangleapp.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
@@ -55,10 +54,10 @@ Free and Open source app that allows to move and resize windows in macOS using k
 <p align="center"><img src="rectangle/rectangle-config2.png">
 <p align="center" justify="center">Rectangle - configuration 2<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### MonitorControl
-Free and Open source app that allows to control your display's brightness and volume on your Mac as if it was a native Apple Display.I particularly rely on it when connected to an external monitor.
+这款免费的开源应用程序可以在 Mac 上控制显示器的亮度和音量，就像控制苹果显示器一样。
 
 <a href="https://github.com/MonitorControl/MonitorControl"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
@@ -68,10 +67,10 @@ Free and Open source app that allows to control your display's brightness and vo
 <p align="center"><img src="monitorControl/monitorControl-config.png">
 <p align="center" justify="center">MonitorControl - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### Stats
-You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
+你可能已经注意到，我的 Mac 的统计数据现在可以方便地显示在状态栏中。这都要归功于我最喜欢的一款应用程序，它让我可以直接从菜单栏监控几乎所有组件。
 
 <a href="https://github.com/exelban/stats"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
 
@@ -81,10 +80,10 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="stats/stats-mockup2.png">
 <p align="center" justify="center">Stats - monitors available<br><br />
 
-> Personally, I mainly utilize the power, fan, CPU, and RAM usage features. However, there are plenty of other features available for you to explore at your own.
+> 我个人主要使用电源、风扇、CPU 和内存使用情况功能。不过，还有很多其他功能可供您自行探索。
 
-#### CPU monitor configuration
-**⚠️ Warning: This content contains multiple images.**
+#### CPU 监控配置
+**⚠️ 警告： 此内容包含多个图像。**
 
 <p align="center"><img src="stats/stats-cpu.png" width=50%>
 <p align="center" justify="center">Stats - cpu usage<br><br />
@@ -98,7 +97,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="stats/stats-cpu3.png">
 <p align="center" justify="center">Stats - cpu configuration 3<br><br />
 
-#### RAM monitor configuration
+#### RAM 监视器配置
 
 <p align="center"><img src="stats-ram.png" width=50%>
 <p align="center" justify="center">Stats - ram usage<br><br />
@@ -112,7 +111,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="stats/stats-ram3.png">
 <p align="center" justify="center">Stats - ram configuration 3<br><br />
 
-#### FANS monitor configuration
+#### 风扇监视器配置
 
 <p align="center"><img src="stats/stats-fans.png" width=50%>
 <p align="center" justify="center">Stats - fans usage (bottom) in RPM<br><br />
@@ -123,7 +122,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="stats/stats-fans2.png">
 <p align="center" justify="center">Stats - fans configuration 2<br><br />
 
-#### POWER monitor configuration
+#### 电源监控器配置
 <p align="center"><img src="stats/stats-fans.png" width=50%>
 <p align="center" justify="center">Stats - fans usage (top)<br><br />
 
@@ -133,10 +132,10 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="stats/stats-battery2.png">
 <p align="center" justify="center">Stats - power configuration 2<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### iBar
-With the arrival of Apple Silicon processors, the introduction of the notch has led to limited space in the menu bar. This app enables you to group icons occupying space into a fixed folder directly on your menu bar.
+随着苹果硅处理器的问世，刘海的引入导致菜单栏空间有限。有了这款 app，你可以直接在菜单栏上将占据空间的图标归类到一个固定的文件夹中。
 
 <a href="https://apps.apple.com/pt/app/ibar-menubar-icon-control-tool/id6443843900?l=en-GB&mt=12"><img src="https://img.shields.io/badge/download-here-purple.svg" height=20px></a>
 
@@ -147,10 +146,10 @@ In my case, I usually hide everything except the stats monitor.
 <p align="center"><img src="iBar/ibar-config.png">
 <p align="center" justify="center">iBar - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### Alfred
-An upgraded version of Spotlight for Mac, offering enhanced search capabilities both locally and on the web, enabling more detailed and comprehensive searches.
+Mac 版 Spotlight 的升级版本，增强了本地和网络搜索功能，可进行更详细、更全面的搜索。
 
 <a href="https://www.alfredapp.com/"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
 
@@ -160,24 +159,24 @@ An upgraded version of Spotlight for Mac, offering enhanced search capabilities 
 <p align="center"><img src="alfred/alfred-config.png">
 <p align="center" justify="center">Alfred - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### MOS
-Frustrated with the default mouse scrolling direction on your Mac? This app allows you to reverse the "unnatural" external mouse scroll direction to your preference. Simply download and start using it hassle-free.
+对 Mac 上默认的鼠标滚动方向感到沮丧？有了这款应用程序，你就可以根据自己的喜好，扭转 "不自然 "的外部鼠标滚动方向。只需下载，即可轻松使用。
 
 <a href="https://mos.caldis.me/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
 <p align="center"><img src="mos/mos-config.png">
 <p align="center" justify="center">MOS - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### AlDente
-If you, like me, often keep your MacBook connected to the charger for extended periods, you might be concerned about the health of your battery. Continuous charging at 100% can potentially cause chemical and irreversible damage to the battery.
+如果你和我一样，经常将 MacBook 长期连接到充电器上，你可能会担心电池的健康状况。持续 100% 充电可能会对电池造成化学和不可逆的损害。
 
-You may have also heard about the [lifespan of lithium-ion batteries](https://www.apple.com/batteries/why-lithium-ion/), typically around 1000 charge cycles. When your MacBook is constantly plugged in, the system may draw power from the battery even while it's charging, further accelerating its degradation.
+您可能还听说过[锂离子电池的使用寿命](https://www.apple.com/batteries/why-lithium-ion/)，通常约为 1000 个充电周期。当你的 MacBook 一直插在电源插座上时，即使在充电过程中，系统也可能从电池中汲取电能，从而进一步加速电池的老化。
 
-Enter **Aldente** – this app offers a solution by allowing you to set a cap on your battery's charge and ensure that the system primarily draws power from the adapter rather than the battery. I highly recommend upgrading to the PRO version for deeper management of your Mac's battery health, although the free version is also enough for basic basic functionalities.
+回到**Aldente** - 这款应用程序提供了一种解决方案，它允许你设置电池电量上限，确保系统只从电源而不是电池中获取能量。我强烈建议升级到专业版，以便对 Mac 的电池健康状况进行更深入的管理，不过免费版也足以满足基本的基础功能需求。
 
 <a href="https://github.com/AppHouseKitchen/AlDente-Charge-Limiter"><img src="https://img.shields.io/badge/download-here-red.svg" height=20px></a>
 
@@ -199,10 +198,10 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 <p align="center"><img src="aldente/aldente-premium4.png">
 <p align="center" justify="center">Aldente - premium functionalities 4<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### TopNotch
-You can hide or show the notch on the new MacBooks as desired.
+你可以根据需要在新款 MacBook 上隐藏或显示刘海。
 
 <a href="https://topnotch.app/"><img src="https://img.shields.io/badge/download-here-pink.svg" height=20px></a>
 
@@ -212,10 +211,10 @@ You can hide or show the notch on the new MacBooks as desired.
 <p align="center"><img src="topNotch/topnotch-on.png">
 <p align="center" justify="center">Top Notch - enabled<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### AltTab
-It brings the power of Windows’s “alt-tab” window switcher to macOS or customize as you desired.
+它为 macOS 带来了 Windows "alt-tab "窗口切换器的强大功能，也可以根据需要进行自定义。
 
 <a href="https://alt-tab-macos.netlify.app/"><img src="https://img.shields.io/badge/download-here-yellow.svg" height=20px></a>
 
@@ -225,43 +224,43 @@ It brings the power of Windows’s “alt-tab” window switcher to macOS or cus
 <p align="center"><img src="alttab/alttab-config.png">
 <p align="center" justify="center">Alt Tab - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 ### Shottr
-A multifunctional screenshot tool that offers a range of features to enhance your screenshot-taking experience. All the screenshots in this document were captured using Shottr.
+一款多功能截图工具，提供一系列功能来增强你的截图体验。本文档中的所有截图都是使用 Shottr 截取的。
 
 <a href="https://shottr.cc/"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
 
 <p align="center"><img src="shottr/shottr-config.png">
 <p align="center" justify="center">Shottr - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
-## System Settings
+## 系统设置
 
-### Dock Speed
-Occasionally, the Mac dock occupies space on our desktop. You can use the key combination **⌥⌘D** to hide/show the dock. However, the animation for the dock to reappear is too slow.
+### Dock栏响应速度
+Mac Dock栏有时会占用桌面空间。你可以使用组合键**⌥⌘D**来隐藏/显示 Dock。不过，Dock 重新出现的动画速度太慢。
 
-- To make the Dock **instantly** leap back into view when it’s needed, rather than slide, type the following in your terminal:
+- 要让 Dock 在需要时**立即**跃回视图，而不是滑动，请在终端中键入以下内容：
 ```bash
 defaults write com.apple.dock autohide-time-modifier -int 0; killall Dock
 ```
 
-- If you’d like the animation for the dock to reappear to last for a **split-second**, try the following:
+- 如果想让重新出现的动画**持续几秒**，请在终端中键入以下内容：
 ```bash
 defaults write com.apple.dock autohide-time-modifier -float 0.15; killall Dock
 ```
 
-> To explain, changing "0.15" with any number can let you tailor things as it represents the time in seconds taken for the dock to reappear fully.
+> 要解释一下，用任何数字改变 "0.15 "都可以让你进行调整，因为它代表了停靠点完全重现所需的时间（以秒为单位）。
 
-- To **revert back** to the default sliding effect, type the following:
+- 要**恢复**默认的滑动效果，请键入以下内容：
 ```bash
 defaults delete com.apple.dock autohide-time-modifier; killall Dock
 ```
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ 返回索引](#轻松定位内容)
 
 
-## Contributions  
-I will monitor this repository and make upgrades as needed. Contributions are encouraged and open, so feel free to make adjustments and modifications as necessary.
+## 贡献  
+我将关注此repository，并根据需要进行升级。我们鼓励并欢迎贡献，请随时根据需要进行调整和修改。
 
