@@ -39,7 +39,7 @@ Here are the applications I use most. Each serves a specific purpose, which I'll
 
 <p align="center"><img src="docs/applications.png" width=auto></p> 
 
-### 🚀 Rectangle
+### Rectangle
 Free and Open source app that allows to move and resize windows in macOS using keyboard shortcuts or snap areas. 
 
 <a href="https://rectangleapp.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
@@ -53,7 +53,7 @@ Free and Open source app that allows to move and resize windows in macOS using k
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### 🚀 MonitorControl
+### MonitorControl
 Free and Open source app that allows to control your display's brightness and volume on your Mac as if it was a native Apple Display.I particularly rely on it when connected to an external monitor.
 
 <a href="https://github.com/MonitorControl/MonitorControl"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
@@ -66,7 +66,7 @@ Free and Open source app that allows to control your display's brightness and vo
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### 🚀 Stats
+### Stats
 You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
 
 <a href="https://github.com/exelban/stats"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
@@ -129,7 +129,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="docs/stats/stats-battery2.png">
 <p align="center" justify="center">Stats - power configuration 2<br><br />
 
-### 🚀 iBar
+### iBar
 With the arrival of Apple Silicon processors, the introduction of the notch has led to limited space in the menu bar. This app enables you to group icons occupying space into a fixed folder directly on your menu bar.
 
 <a href="https://apps.apple.com/pt/app/ibar-menubar-icon-control-tool/id6443843900?l=en-GB&mt=12"><img src="https://img.shields.io/badge/download-here-purple.svg" height=20px></a>
@@ -141,7 +141,7 @@ In my case, I usually hide everything except the stats monitor.
 <p align="center"><img src="docs/iBar/ibar-config.png">
 <p align="center" justify="center">iBar - configuration<br><br />
 
-### 🚀 Alfred
+### Alfred
 An upgraded version of Spotlight for Mac, offering enhanced search capabilities both locally and on the web, enabling more detailed and comprehensive searches.
 
 <a href="https://www.alfredapp.com/"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
@@ -154,7 +154,7 @@ An upgraded version of Spotlight for Mac, offering enhanced search capabilities 
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### 🚀 MOS
+### MOS
 Frustrated with the default mouse scrolling direction on your Mac? This app allows you to reverse the "unnatural" external mouse scroll direction to your preference. Simply download and start using it hassle-free.
 
 <a href="https://mos.caldis.me/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
@@ -164,7 +164,7 @@ Frustrated with the default mouse scrolling direction on your Mac? This app allo
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### 🚀 AlDente
+### AlDente
 If you, like me, often keep your MacBook connected to the charger for extended periods, you might be concerned about the health of your battery. Continuous charging at 100% can potentially cause chemical and irreversible damage to the battery.
 
 You may have also heard about the [lifespan of lithium-ion batteries](https://www.apple.com/batteries/why-lithium-ion/), typically around 1000 charge cycles. When your MacBook is constantly plugged in, the system may draw power from the battery even while it's charging, further accelerating its degradation.
@@ -193,7 +193,7 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### 🚀 TopNotch
+### TopNotch
 You can hide or show the notch on the new MacBooks as desired.
 
 <a href="https://topnotch.app/"><img src="https://img.shields.io/badge/download-here-pink.svg" height=20px></a>
@@ -206,7 +206,7 @@ You can hide or show the notch on the new MacBooks as desired.
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### 🚀 AltTab
+### AltTab
 It brings the power of Windows’s “alt-tab” window switcher to macOS or customize as you desired.
 
 <a href="https://alt-tab-macos.netlify.app/"><img src="https://img.shields.io/badge/download-here-yellow.svg" height=20px></a>
@@ -219,7 +219,7 @@ It brings the power of Windows’s “alt-tab” window switcher to macOS or cus
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### 🚀 Shottr
+### Shottr
 A multifunctional screenshot tool that offers a range of features to enhance your screenshot-taking experience. All the screenshots in this document were captured using Shottr.
 
 <a href="https://shottr.cc/"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
