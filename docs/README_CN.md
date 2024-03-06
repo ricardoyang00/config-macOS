@@ -99,7 +99,7 @@
 
 #### RAM 监视器配置
 
-<p align="center"><img src="stats-ram.png" width=50%>
+<p align="center"><img src="stats/stats-ram.png" width=50%>
 <p align="center" justify="center">Stats - ram usage<br><br />
 
 <p align="center"><img src="stats/stats-ram1.png">
