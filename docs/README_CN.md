@@ -186,7 +186,7 @@ Mac 版 Spotlight 的升级版本，增强了本地和网络搜索功能，可�
 <p align="center"><img src="aldente/battery-not-charging.png">
 <p align="center" justify="center">Aldente - system battery not charging<br><br />
 
-<p align="center"><img src=aldente/aldente-premium1.png">
+<p align="center"><img src="aldente/aldente-premium1.png">
 <p align="center" justify="center">Aldente - premium functionalities 1<br><br />
 
 <p align="center"><img src="aldente/aldente-premium2.png">
