@@ -32,6 +32,7 @@ While these apps and system settings are intended to work on the most recent mac
   - [TopNotch](#topnotch)
   - [AltTab](#alttab)
   - [Shottr](#shottr)
+  - [Code Whisperer](#codewhisperer)
 
 - [System Settings](#system-settings)
   - [Dock Hide/Show Animation Speed](#dock-speed)
@@ -234,6 +235,21 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 
 <p align="center"><img src="docs/shottr/shottr-config.png">
 <p align="center" justify="center">Shottr - configuration<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
+
+### CodeWhisperer
+CodeWhisperer is an AI tool designed for enhancing shell command line interactions. It offers a range of functionalities including personalized code completions, inline documentation, and translation of natural language into code. 
+
+Currently, it is exclusively available for macOS, so enjoy it :)
+
+<a href="https://aws.amazon.com/pt/blogs/devops/introducing-amazon-codewhisperer-for-command-line/"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
+
+<p align="center"><img src="docs/codeWhisperer/codeWhisperer-autofill.gif">
+<p align="center" justify="center">Code Whisperer - IDE-style completions<br><br />
+
+<p align="center"><img src="docs/codeWhisperer/codeWhisperer-aiTool.gif">
+<p align="center" justify="center">Code Whisperer - Natural language-to-bash translation<br><br />
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
