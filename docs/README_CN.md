@@ -31,6 +31,7 @@
   - [TopNotch](#topnotch)
   - [AltTab](#alttab)
   - [Shottr](#shottr)
+  - [Code Whisperer](#codewhisperer)
 
 - [系统设置](#系统设置)
   - [Dock栏响应速度](#dock栏响应速度)
@@ -233,6 +234,21 @@ Mac 版 Spotlight 的升级版本，增强了本地和网络搜索功能，可�
 
 <p align="center"><img src="shottr/shottr-config.png">
 <p align="center" justify="center">Shottr - configuration<br><br />
+
+[⬅️ 返回索引](#轻松定位内容)
+
+### CodeWhisperer
+CodeWhisperer 是一款人工智能工具，旨在增强 shell 命令行交互。它提供一系列功能，包括个性化代码补全、内联文档以及将自然语言翻译成代码。
+
+目前，它仅适用于 macOS，请尽情享受吧：)
+
+<a href="https://aws.amazon.com/pt/blogs/devops/introducing-amazon-codewhisperer-for-command-line/"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
+
+<p align="center"><img src="codeWhisperer/codeWhisperer-autofill.gif">
+<p align="center" justify="center">Code Whisperer - IDE-style completions<br><br />
+
+<p align="center"><img src="codeWhisperer/codeWhisperer-aiTool.gif">
+<p align="center" justify="center">Code Whisperer - Natural language-to-bash translation<br><br />
 
 [⬅️ 返回索引](#轻松定位内容)
 
