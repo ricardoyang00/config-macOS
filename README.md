@@ -260,7 +260,7 @@ Clipy is an application that allows you to store and access previously copied co
 
 <a href="https://clipy-app.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
-<p align="center"><img src="docs/clipy/clipy.png">
+<p align="center"><img src="docs/clipy/clipy-1.png" width=50%>
 <p align="center" justify="center">Clipy - interface<br><br />
 
 [⬅️ Back to Index](#easily-locate-the-content)
