@@ -32,7 +32,9 @@ While these apps and system settings are intended to work on the most recent mac
   - [TopNotch](#topnotch)
   - [AltTab](#alttab)
   - [Shottr](#shottr)
-  - [Code Whisperer](#codewhisperer)
+  - [Amazon Q](#amazon-q)
+  - [Clipy](#clipy)
+  - [BetterDisplay](#betterdisplay)
 
 - [System Settings](#system-settings)
   - [Dock Hide/Show Animation Speed](#dock-speed)
@@ -238,18 +240,39 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
-### CodeWhisperer
-CodeWhisperer is an AI tool designed for enhancing shell command line interactions. It offers a range of functionalities including personalized code completions, inline documentation, and translation of natural language into code. 
+### Amazon Q
+Amazon Q (previously known as __CodeWhisperer__) is an AI tool designed for enhancing shell command line interactions. It offers a range of functionalities including personalized code completions, inline documentation, and translation of natural language into code. 
 
 Currently, it is exclusively available for macOS, so enjoy it :)
 
-<a href="https://aws.amazon.com/pt/blogs/devops/introducing-amazon-codewhisperer-for-command-line/"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
+<a href="https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-getting-started-installing.html"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
 
 <p align="center"><img src="docs/codeWhisperer/codeWhisperer-autofill.gif">
 <p align="center" justify="center">Code Whisperer - IDE-style completions<br><br />
 
 <p align="center"><img src="docs/codeWhisperer/codeWhisperer-aiTool.gif">
 <p align="center" justify="center">Code Whisperer - Natural language-to-bash translation<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
+
+### Clipy
+Clipy is an application that allows you to store and access previously copied content.
+
+<a href="https://clipy-app.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
+
+<p align="center"><img src="docs/clipy/clipy.png">
+<p align="center" justify="center">Clipy - interface<br><br />
+
+[⬅️ Back to Index](#easily-locate-the-content)
+
+### BetterDisplay
+Using BetterDisplay, you are able to **Unlock your displays on your Mac!**
+Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+
+<a href="https://github.com/waydabber/BetterDisplay/tree/landing"><img src="https://img.shields.io/badge/download-here-violet.svg" height=20px></a>
+
+<p align="center"><img src="docs/betterdisplay/betterdisplay.png">
+<p align="center" justify="center">BetterDisplay - some features<br><br />
 
 [⬅️ Back to Index](#easily-locate-the-content)
 
