@@ -14,7 +14,7 @@ Here you can discover these essential apps and settings to optimize your **MacBo
 While these apps and system settings are intended to work on the most recent macOS versions and Apple Silicon processors, there may be occasional compatibility issues. Please note my device about:
 
 - MacBook Pro M3 Pro
-- macOS Sonoma
+- macOS Sonoma & Sequoia
 
 > Please keep in mind that while efforts are made to ensure compatibility, it is not guaranteed to be 100% effective. 
 > In addition, always check the latest versions of the applications mentioned
