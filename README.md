@@ -2,52 +2,56 @@
 
 <p align="center"><img src="docs/logo.png" width=150px></p> 
 
-<p align="center">
-<a href="docs/README_CN.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg" alt="CN doc"></a>
-<a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
-</p>
+
 
 ## What you can find here?
-Here you can discover these essential apps and settings to optimize your **MacBook** or **Mac** for enhanced usability and productivity.
+Find essential apps and settings to make your **MacBook** or **Mac** more productive and easy to use.
 
-## Compatibility information
-While these apps and system settings are intended to work on the most recent macOS versions and Apple Silicon processors, there may be occasional compatibility issues. Please note my device about:
+## Device Information
+These recommendations work best on the latest macOS versions and Apple Silicon devices. My setup:
 
 - MacBook Pro M3 Pro
 - macOS Sonoma & Sequoia
 
-> Please keep in mind that while efforts are made to ensure compatibility, it is not guaranteed to be 100% effective. 
-> In addition, always check the latest versions of the applications mentioned
+> Note: Always check for the latest app versions to ensure compatibility
 
 
-## Easily locate the content
-- [Applications](#applications)
-  - [Rectangle](#rectangle)
-  - [MonitorControl](#monitorcontrol)
-  - [Stats](#stats)
-  - [iBar](#ibar)
-  - [Alfred](#alfred)
-  - [MOS](#mos)
-  - [AlDente](#aldente)
-  - [TopNotch](#topnotch)
-  - [AltTab](#alttab)
-  - [Shottr](#shottr)
-  - [Amazon Q](#amazon-q)
-  - [Clipy](#clipy)
-  - [BetterDisplay](#betterdisplay)
+## Content
 
+- [Rectangle](#rectangle)      
+- [TopNotch](#topnotch)          
+- [Stats](#stats)                
+- [XApp](#xapp)                  
+- [MOS](#mos) ⭐️
+- [AlDente](#aldente) ⭐️           
+- [Shottr](#shottr)              
+- [Clipy](#clipy)                
+- [AltTab](#alttab)              
+- [BetterDisplay](#betterdisplay)
+- [Amazon Q](#amazon-q) ⭐️         
+- [Ice](#ice) ⭐️                   
 - [System Settings](#system-settings)
   - [Dock Hide/Show Animation Speed](#dock-speed)
 
-- [Contributions](#contributions)
+
+> ⭐️ Apps highly recommended
+
+
+
 
 ## Applications
-Here are the applications I use most. Each serves a specific purpose, which I'll outline, and offers functionality that complements the default macOS utilities. All of these applications are set to **start at login**.
+Here are the applications I use most. Each serves a specific purpose, which I'll outline, and offers functionality that complements the default macOS utilities.
 
 <p align="center"><img src="docs/applications.png" width=auto></p> 
 
+
+---
+
+
 ### Rectangle
-Free and Open source app that allows to move and resize windows in macOS using keyboard shortcuts or snap areas. 
+Free and Open source app that allows to move and resize windows like in Windows, using keyboard shortcuts or snap areas.
+
+> Note: this feature has been added to the newest macOS Sequoia system. So, it's more recommended to those who are still using older OS versions, like me.
 
 <a href="https://rectangleapp.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
@@ -58,23 +62,35 @@ Free and Open source app that allows to move and resize windows in macOS using k
 <p align="center"><img src="docs/rectangle/rectangle-config2.png">
 <p align="center" justify="center">Rectangle - configuration 2<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ Back to Index](#content)
 
-### MonitorControl
-Free and Open source app that allows to control your display's brightness and volume on your Mac as if it was a native Apple Display.I particularly rely on it when connected to an external monitor.
 
-<a href="https://github.com/MonitorControl/MonitorControl"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
-<p align="center"><img src="docs/monitorControl/monitorControl-mockup.png" width=60%>
-<p align="center" justify="center">MonitorControl - menu bar<br><br />
+---
 
-<p align="center"><img src="docs/monitorControl/monitorControl-config.png">
-<p align="center" justify="center">MonitorControl - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+
+### TopNotch
+allows you to hide or reveal the notch on the new MacBooks as desired.
+
+<a href="https://topnotch.app/"><img src="https://img.shields.io/badge/download-here-pink.svg" height=20px></a>
+
+<p align="center"><img src="docs/topNotch/topnotch-off.png">
+<p align="center" justify="center">Top Notch - disabled<br><br />
+
+<p align="center"><img src="docs/topNotch/topnotch-on.png">
+<p align="center" justify="center">Top Notch - enabled<br><br />
+
+[⬅️ Back to Index](#content)
+
+
+
+---
+
+
 
 ### Stats
-You might have noticed that my Mac's stats are now conveniently displayed in the status bar. It's all thanks to one of my favorite apps, which allows me to monitor nearly every component right from the menu bar.
+Displays real-time stats about the Mac in the menu bar. It allows you monitor power usage, fan speed, CPU, RAM, etc.
 
 <a href="https://github.com/exelban/stats"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
 
@@ -84,7 +100,7 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="docs/stats/stats-mockup2.png">
 <p align="center" justify="center">Stats - monitors available<br><br />
 
-> Personally, I mainly utilize the power, fan, CPU, and RAM usage features. However, there are plenty of other features available for you to explore at your own.
+> I mainly use the power, fan, CPU, and RAM features, but there are many more for you to explore.
 
 #### CPU monitor configuration
 **⚠️ Warning: This content contains multiple images.**
@@ -136,51 +152,51 @@ You might have noticed that my Mac's stats are now conveniently displayed in the
 <p align="center"><img src="docs/stats/stats-battery2.png">
 <p align="center" justify="center">Stats - power configuration 2<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ Back to Index](#content)
 
-### iBar
-With the arrival of Apple Silicon processors, the introduction of the notch has led to limited space in the menu bar. This app enables you to group icons occupying space into a fixed folder directly on your menu bar.
 
-<a href="https://apps.apple.com/pt/app/ibar-menubar-icon-control-tool/id6443843900?l=en-GB&mt=12"><img src="https://img.shields.io/badge/download-here-purple.svg" height=20px></a>
 
-<p align="center"><img src="docs/iBar/ibar-mockup.png">
-<p align="center" justify="center">iBar - menu bar<br><br />
+---
 
-In my case, I usually hide everything except the stats monitor.
-<p align="center"><img src="docs/iBar/ibar-config.png">
-<p align="center" justify="center">iBar - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
 
-### Alfred
-An upgraded version of Spotlight for Mac, offering enhanced search capabilities both locally and on the web, enabling more detailed and comprehensive searches.
+### XApp
+A powerful cleaner that helps you uninstall apps completely by removing caches and all related files.
 
-<a href="https://www.alfredapp.com/"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
+<a href="https://www.better365.cn/xapp.html"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
 
-<p align="center"><img src="docs/alfred/alfred-mockup.png">
-<p align="center" justify="center">Alfred - search functionality<br><br />
+<p align="center"><img src="docs/xapp/xapp.png" width=60%>
+<p align="center" justify="center">XApp - Interface<br><br />
 
-<p align="center"><img src="docs/alfred/alfred-config.png">
-<p align="center" justify="center">Alfred - configuration<br><br />
+[⬅️ Back to Index](#content)
 
-[⬅️ Back to Index](#easily-locate-the-content)
+
+
+---
+
 
 ### MOS
-Frustrated with the default mouse scrolling direction on your Mac? This app allows you to reverse the "unnatural" external mouse scroll direction to your preference. Simply download and start using it hassle-free.
+For users who are frustrated with the default mouse scrolling direction on Mac, MOS allows them to reverse the scrolling direction and make the mouse usage in Mac **natural**.
 
 <a href="https://mos.caldis.me/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
 <p align="center"><img src="docs/mos/mos-config.png">
 <p align="center" justify="center">MOS - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ Back to Index](#content)
+
+
+
+---
+
+
 
 ### AlDente
-If you, like me, often keep your MacBook connected to the charger for extended periods, you might be concerned about the health of your battery. Continuous charging at 100% can potentially cause chemical and irreversible damage to the battery.
+If you, like me, often keep your MacBook connected to the charger for extended periods, you might be concerned about the health of your battery. Continuous charging at 100% **can potentially cause chemical and irreversible damage to the battery**.
 
-You may have also heard about the [lifespan of lithium-ion batteries](https://www.apple.com/batteries/why-lithium-ion/), typically around 1000 charge cycles. When your MacBook is constantly plugged in, the system may draw power from the battery even while it's charging, further accelerating its degradation.
+> You may have also heard about the [lifespan of lithium-ion batteries](https://www.apple.com/batteries/why-lithium-ion/), typically around 1000 charge cycles. When your MacBook is constantly plugged in, the system may draw power from the battery even while it's charging, further accelerating its degradation.
 
-Enter **Aldente** – this app offers a solution by allowing you to set a cap on your battery's charge and ensure that the system primarily draws power from the adapter rather than the battery. I highly recommend upgrading to the PRO version for deeper management of your Mac's battery health, although the free version is also enough for basic basic functionalities.
+**Aldente** helps protect battery health by limiting the maximum charge, ensuring the MacBook draws power primarily from the adapter rather than the battery.
 
 <a href="https://github.com/AppHouseKitchen/AlDente-Charge-Limiter"><img src="https://img.shields.io/badge/download-here-red.svg" height=20px></a>
 
@@ -202,33 +218,13 @@ Enter **Aldente** – this app offers a solution by allowing you to set a cap on
 <p align="center"><img src="docs/aldente/aldente-premium4.png">
 <p align="center" justify="center">Aldente - premium functionalities 4<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ Back to Index](#content)
 
-### TopNotch
-You can hide or show the notch on the new MacBooks as desired.
 
-<a href="https://topnotch.app/"><img src="https://img.shields.io/badge/download-here-pink.svg" height=20px></a>
 
-<p align="center"><img src="docs/topNotch/topnotch-off.png">
-<p align="center" justify="center">Top Notch - disabled<br><br />
+---
 
-<p align="center"><img src="docs/topNotch/topnotch-on.png">
-<p align="center" justify="center">Top Notch - enabled<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
-
-### AltTab
-It brings the power of Windows’s “alt-tab” window switcher to macOS or customize as you desired.
-
-<a href="https://alt-tab-macos.netlify.app/"><img src="https://img.shields.io/badge/download-here-yellow.svg" height=20px></a>
-
-<p align="center"><img src="docs/alttab/alttab-mockup.png">
-<p align="center" justify="center">Alt Tab - feature<br><br />
-
-<p align="center"><img src="docs/alttab/alttab-config.png">
-<p align="center" justify="center">Alt Tab - configuration<br><br />
-
-[⬅️ Back to Index](#easily-locate-the-content)
 
 ### Shottr
 A multifunctional screenshot tool that offers a range of features to enhance your screenshot-taking experience. All the screenshots in this document were captured using Shottr.
@@ -238,7 +234,69 @@ A multifunctional screenshot tool that offers a range of features to enhance you
 <p align="center"><img src="docs/shottr/shottr-config.png">
 <p align="center" justify="center">Shottr - configuration<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ Back to Index](#content)
+
+
+---
+
+
+
+### Clipy
+Allows you to store and access previously copied content.
+
+<a href="https://clipy-app.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
+
+<p align="center"><img src="docs/clipy/clipy-1.png" width=50%>
+<p align="center" justify="center">Clipy - interface<br><br />
+
+[⬅️ Back to Index](#content)
+
+
+
+
+---
+
+
+
+
+### AltTab
+It brings the power of Windows’s **alt-tab** window switcher to macOS or customize as you desired.
+
+<a href="https://alt-tab-macos.netlify.app/"><img src="https://img.shields.io/badge/download-here-yellow.svg" height=20px></a>
+
+<p align="center"><img src="docs/alttab/alttab-mockup.png">
+<p align="center" justify="center">Alt Tab - feature<br><br />
+
+<p align="center"><img src="docs/alttab/alttab-config.png">
+<p align="center" justify="center">Alt Tab - configuration<br><br />
+
+[⬅️ Back to Index](#content)
+
+
+
+---
+
+
+
+### BetterDisplay
+**Unlock your displays on your Mac!**
+
+Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+
+Control your display by yourself.
+
+<a href="https://github.com/waydabber/BetterDisplay/tree/landing"><img src="https://img.shields.io/badge/download-here-violet.svg" height=20px></a>
+
+<p align="center"><img src="docs/betterdisplay/betterdisplay.png">
+<p align="center" justify="center">BetterDisplay - some features<br><br />
+
+[⬅️ Back to Index](#content)
+
+
+
+---
+
+
 
 ### Amazon Q
 Amazon Q (previously known as __CodeWhisperer__) is an AI tool designed for enhancing shell command line interactions. It offers a range of functionalities including personalized code completions, inline documentation, and translation of natural language into code. 
@@ -253,28 +311,27 @@ Currently, it is exclusively available for macOS, so enjoy it :)
 <p align="center"><img src="docs/codeWhisperer/codeWhisperer-aiTool.gif">
 <p align="center" justify="center">Code Whisperer - Natural language-to-bash translation<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ Back to Index](#content)
 
-### Clipy
-Clipy is an application that allows you to store and access previously copied content.
 
-<a href="https://clipy-app.com/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
 
-<p align="center"><img src="docs/clipy/clipy-1.png" width=50%>
-<p align="center" justify="center">Clipy - interface<br><br />
+---
 
-[⬅️ Back to Index](#easily-locate-the-content)
 
-### BetterDisplay
-Using BetterDisplay, you are able to **Unlock your displays on your Mac!**
-Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+### Ice
+Enables you to group icons occupying space into a fixed folder directly on your menu bar.
 
-<a href="https://github.com/waydabber/BetterDisplay/tree/landing"><img src="https://img.shields.io/badge/download-here-violet.svg" height=20px></a>
+<a href="https://github.com/jordanbaird/Ice"><img src="https://img.shields.io/badge/download-here-purple.svg" height=20px></a>
 
-<p align="center"><img src="docs/betterdisplay/betterdisplay.png">
-<p align="center" justify="center">BetterDisplay - some features<br><br />
+<p align="center"><img src="docs/ice/ice-icon.png">
+<p align="center" justify="center">Ice - icon in menu bar<br><br />
 
-[⬅️ Back to Index](#easily-locate-the-content)
+
+[⬅️ Back to Index](#content)
+
+
+
+
 
 ## System Settings
 
@@ -298,9 +355,9 @@ defaults write com.apple.dock autohide-time-modifier -float 0.15; killall Dock
 defaults delete com.apple.dock autohide-time-modifier; killall Dock
 ```
 
-[⬅️ Back to Index](#easily-locate-the-content)
+[⬅️ Back to Index](#content)
 
 
-## Contributions  
-I will monitor this repository and make upgrades as needed. Contributions are encouraged and open, so feel free to make adjustments and modifications as necessary.
+## Notes
+I will keep an eye on this repository and make updates as needed.
 
