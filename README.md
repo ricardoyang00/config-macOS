@@ -30,12 +30,12 @@ These recommendations work best on the latest macOS versions and Apple Silicon d
 - [BetterDisplay](#betterdisplay)
 - [Amazon Q](#amazon-q) ⭐️         
 - [Ice](#ice) ⭐️                   
-- [System Settings](#system-settings)
+- [System Settings](#system-settings) ⭐️
   - [Dock Hide/Show Animation Speed](#dock-speed)
   - [Quickly Switching Display Arrangements](#quickly-switching-display-arrangements)
 
 
-> ⭐️ Apps highly recommended
+> ⭐️ Highly recommended
 
 
 
