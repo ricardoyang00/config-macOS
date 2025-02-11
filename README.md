@@ -32,6 +32,7 @@ These recommendations work best on the latest macOS versions and Apple Silicon d
 - [Ice](#ice) ⭐️                   
 - [System Settings](#system-settings)
   - [Dock Hide/Show Animation Speed](#dock-speed)
+  - [Quickly Switching Display Arrangements](#quickly-switching-display-arrangements)
 
 
 > ⭐️ Apps highly recommended
@@ -357,6 +358,34 @@ defaults delete com.apple.dock autohide-time-modifier; killall Dock
 
 [⬅️ Back to Index](#content)
 
+
+
+### Quickly Switching Display Arrangements
+If you frequently change your mac's position while connected to an external monitor, arranging display can be inconvenient as you always have to go to the settings to adjust them.
+
+Here is a solution: Using [displayplacer](https://github.com/jakehilborn/displayplacer) allows you to switch between predefined display arrangements using Apple shortcuts.
+
+You can check [this video](https://youtu.be/1H96lNhFoqQ?si=j1nFYShkCbhdfuAp) or simply follow my tutorial below:
+
+1. Install [displayplacer](https://github.com/jakehilborn/displayplacer)
+
+2. Run the command ```displayplacer list```. This will show the current display configuration, including the displays arrangement.
+The output should look something like this:
+```
+displayplacer "id:9076392E-4B37-4774-9515-15116BB566BE res:1920x1080 hz:75 color_depth:8 enabled:true scaling:on origin:(0,0) degree:0" "id:37D8832A-2D66-02CA-B9F7-8F30A301B230 res:1800x1169 hz:120 color_depth:8 enabled:true scaling:on origin:(-1800,598) degree:0"
+```
+
+3. Save the codes for different display configurations and create shortcuts to switch between them easily:
+  - In Apple Shortcuts, add a new `Run Shell Script` action
+  - Paste the displayplacer command for the desired configuration
+
+  ![alt text](docs/displayplacer/configuration.png)
+
+4. Add the shortcuts to easily accessible places, like the notification center
+
+![alt text](docs/displayplacer/shortcuts.png)
+
+[⬅️ Back to Index](#content)
 
 ## Notes
 I will keep an eye on this repository and make updates as needed.
