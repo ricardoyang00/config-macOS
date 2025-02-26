@@ -33,6 +33,7 @@ These recommendations work best on the latest macOS versions and Apple Silicon d
 - [System Settings](#system-settings) ⭐️
   - [Dock Hide/Show Animation Speed](#dock-speed)
   - [Quickly Switching Display Arrangements](#quickly-switching-display-arrangements)
+  - [Quickly Shift Spaces](#fast-space-shift)
 
 
 > ⭐️ Highly recommended
@@ -387,6 +388,74 @@ displayplacer "id:9076392E-4B37-4774-9515-15116BB566BE res:1920x1080 hz:75 color
 
 [⬅️ Back to Index](#content)
 
+
+
+
+### Fast Space Shift
+Mac's space-switching animation is slow and reduces productivity and efficiency.
+
+Fortunately, there's a [solution](https://text.is/yabai-guide) to remove it!
+
+#### Step 1: Sip Disable
+Shut your mac down, turn it back on holding power button until you see, startup options text on screen.
+
+Then type in your password and proceed with opening up a terminal session.
+
+type in:
+```bash
+csrutil disable
+
+type your password in then reboot.
+```
+Once booted into the Operating System check system integrity status by
+```bash
+csrutil status
+```
+Should return
+```bash
+System Integrity Protection status: disabled.
+```
+
+#### Step 2: Installation
+Install brew if missing.
+```bash
+brew install koekeishiya/formulae/yabai
+sudo yabai --load-sa
+brew install jq
+brew install koekeishiya/formulae/skhd
+```
+
+#### Step 3: Configuration
+```bash
+mkdir $HOME/.config/yabai/
+mkdir $HOME/.config/skhd/
+touch $HOME/.config/yabai/yabairc
+touch $HOME/.config/skhd/skhdrc
+chmod +x $HOME/.config/yabai/yabairc
+chmod +x $HOME/.config/skhd/skhdrc
+```
+Set shortcuts to use to shift spaces. Usually `ctrl + arrows` or `alt + arrows`, or both.
+```bash
+nano $HOME/.config/skhd/skhdrc
+alt - right : yabai -m space --focus next
+alt - left : yabai -m space --focus prev
+ctrl - right : yabai -m space --focus next
+ctrl - left : yabai -m space --focus prev
+```
+Reboot
+
+#### Step 4: Finalizing
+```bash
+sudo yabai --load-sa
+yabai --start-service
+skhd --start-service
+```
+
+[⬅️ Back to Index](#content)
+
+
 ## Notes
 I will keep an eye on this repository and make updates as needed.
+
+If you got till there, leave a star ⭐️ to support me.
 
