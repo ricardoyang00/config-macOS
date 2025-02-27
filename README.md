@@ -396,6 +396,8 @@ Mac's space-switching animation is slow and reduces productivity and efficiency.
 
 Fortunately, there's a [solution](https://text.is/yabai-guide) to remove it!
 
+![alt text](docs/spaces/spaces-demo.gif)
+
 #### Step 1: Sip Disable
 Shut your mac down, turn it back on holding power button until you see, startup options text on screen.
 
