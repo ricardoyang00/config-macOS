@@ -328,7 +328,7 @@ It also displays detailed temperature data from various system sensors and allow
 <a href="https://crystalidea.com/macs-fan-control"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
 
 
-<p align="center"><img src="docs/macFanControl/macfancontrol-interface.png">
+<p align="center"><img src="docs/macFanControl/macfancontrol-interface.png" width=50%>
 <p align="center" justify="center">Mac Fan Control - interface<br><br/>
 
 
@@ -347,10 +347,10 @@ Once you try it, you won't want to go back to using a mouse without it.
 <a href="https://macmousefix.com/en/"><img src="https://img.shields.io/badge/download-here-pink.svg" height=20px></a>
 
 
-<p align="center"><img src="docs/macMouseFix/macmousefix-settings1.png">
+<p align="center"><img src="docs/macMouseFix/macmousefix-settings1.png" width=50%>
 <p align="center" justify="center">Mac Mouse Fix - settings 1<br><br/>
 
-<p align="center"><img src="docs/macMouseFix/macmousefix-settings2.png">
+<p align="center"><img src="docs/macMouseFix/macmousefix-settings2.png" width=50%>
 <p align="center" justify="center">Mac Mouse Fix - settings 2<br><br/>
 
 
@@ -365,10 +365,10 @@ its a very cool app if you are someone like me that uses intensively the calenda
 <a href="https://github.com/sfsam/Itsycal"><img src="https://img.shields.io/badge/download-here-red.svg" height=20px></a>
 
 
-<p align="center"><img src="docs/itsycal/itsycal-interface.png">
+<p align="center"><img src="docs/itsycal/itsycal-interface.png" width=50%>
 <p align="center" justify="center">Itsycal - interface<br><br/>
 
-<p align="center"><img src="docs/itsycal/itsycal-settings.png">
+<p align="center"><img src="docs/itsycal/itsycal-settings.png" width=50%>
 <p align="center" justify="center">Itsycal - settings<br><br/>
 
 
