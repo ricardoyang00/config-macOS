@@ -18,20 +18,22 @@ These recommendations work best on the latest macOS versions and Apple Silicon d
 
 ## Content
 
-- [Rectangle](#rectangle)      
-- [TopNotch](#topnotch)          
-- [Stats](#stats)                
-- [XApp](#xapp)                  
-- [MOS](#mos) ⭐️
-- [AlDente](#aldente) ⭐️           
-- [Shottr](#shottr)              
-- [Clipy](#clipy)                
-- [AltTab](#alttab)              
-- [BetterDisplay](#betterdisplay)
-- [Amazon Q](#amazon-q) ⭐️         
-- [Ice](#ice) ⭐️                   
-- [System Settings](#system-settings) ⭐️
-  - [Dock Hide/Show Animation Speed](#dock-speed)
+- [Rectangle](#rectangle)
+- [TopNotch](#topnotch)
+- [Stats](#stats)
+- [AlDente](#aldente) ⭐️
+- [Shottr](#shottr)
+- [Clipy](#clipy)
+- [AltTab](#alttab)
+- [BetterDisplay](#betterdisplay) ⭐️
+- [Amazon Q](#amazon-q)
+- [Ice](#ice) ⭐️
+- [Grab2Text](#grab2text) ⭐️
+- [Macs Fan Control](#macs-fan-control)
+- [Mac Mouse Fix](#mac-mouse-fix) ⭐️
+- [Itsycal](#itsycal)
+- [System Settings](#system-settings)
+  - [Dock Hide/Show Animation Speed](#dock-speed) ⭐️
   - [Quickly Switching Display Arrangements](#quickly-switching-display-arrangements)
   - [Quickly Shift Spaces](#fast-space-shift)
 
@@ -159,38 +161,6 @@ Displays real-time stats about the Mac in the menu bar. It allows you monitor po
 
 
 ---
-
-
-
-### XApp
-A powerful cleaner that helps you uninstall apps completely by removing caches and all related files.
-
-<a href="https://www.better365.cn/xapp.html"><img src="https://img.shields.io/badge/download-here-orange.svg" height=20px></a>
-
-<p align="center"><img src="docs/xapp/xapp.png" width=60%>
-<p align="center" justify="center">XApp - Interface<br><br />
-
-[⬅️ Back to Index](#content)
-
-
-
----
-
-
-### MOS
-For users who are frustrated with the default mouse scrolling direction on Mac, MOS allows them to reverse the scrolling direction and make the mouse usage in Mac **natural**.
-
-<a href="https://mos.caldis.me/"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
-
-<p align="center"><img src="docs/mos/mos-config.png">
-<p align="center" justify="center">MOS - configuration<br><br />
-
-[⬅️ Back to Index](#content)
-
-
-
----
-
 
 
 ### AlDente
@@ -332,6 +302,79 @@ Enables you to group icons occupying space into a fixed folder directly on your 
 [⬅️ Back to Index](#content)
 
 
+
+---
+
+### Grab2Text
+Enables to extract text from images as if taking screenshots.
+
+<a href="https://www.macapphq.com/en/article/Grab2Text"><img src="https://img.shields.io/badge/download-here-blue.svg" height=20px></a>
+
+
+<p align="center"><img src="docs/grab2text/grab2text.png" width=50%>
+<p align="center" justify="center">Grab2Text - configurations<br><br/>
+
+
+[⬅️ Back to Index](#content)
+
+---
+
+### Macs Fan Control
+A powerful utility for controlling your Mac's cooling fans. While Stats app offers fan control also, this provides more reliable functionality.
+
+It also displays detailed temperature data from various system sensors and allows precise manual control of fan speeds. Particularly useful during intensive workloads when the default fan behavior isn't proper.
+
+
+<a href="https://crystalidea.com/macs-fan-control"><img src="https://img.shields.io/badge/download-here-green.svg" height=20px></a>
+
+
+<p align="center"><img src="docs/macFanControl/macfancontrol-interface.png">
+<p align="center" justify="center">Mac Fan Control - interface<br><br/>
+
+
+
+[⬅️ Back to Index](#content)
+
+---
+
+### Mac Mouse Fix
+As the name says, it fixes all those annoying mouse problems on your Mac.
+
+It lets you set up custom button combinations that mimic trackpad gestures you'd normally miss out on when using a mouse. One of its coolest features is infinite scroll which is something you'd usually need to pay $100 for with the MX Master 3 mouse.
+
+Once you try it, you won't want to go back to using a mouse without it.
+
+<a href="https://macmousefix.com/en/"><img src="https://img.shields.io/badge/download-here-pink.svg" height=20px></a>
+
+
+<p align="center"><img src="docs/macMouseFix/macmousefix-settings1.png" width=50%>
+<p align="center" justify="center">Mac Mouse Fix - settings 1<br><br/>
+
+<p align="center"><img src="docs/macMouseFix/macmousefix-settings2.png" width=30%>
+<p align="center" justify="center">Mac Mouse Fix - settings 2<br><br/>
+
+
+[⬅️ Back to Index](#content)
+
+---
+
+### Itsycal
+its a very cool app if you are someone like me that uses intensively the calendar to register event. it displays on the menu bar a icon which you can get all the calendar information.
+
+
+<a href="https://github.com/sfsam/Itsycal"><img src="https://img.shields.io/badge/download-here-red.svg" height=20px></a>
+
+
+<p align="center"><img src="docs/itsycal/itsycal-interface.png" width=30%>
+<p align="center" justify="center">Itsycal - interface<br><br/>
+
+<p align="center"><img src="docs/itsycal/itsycal-settings.png" width=30%>
+<p align="center" justify="center">Itsycal - settings<br><br/>
+
+
+[⬅️ Back to Index](#content)
+
+---
 
 
 
