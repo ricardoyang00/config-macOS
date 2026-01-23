@@ -25,12 +25,12 @@ These recommendations work best on the latest macOS versions and Apple Silicon d
 - [Shottr](#shottr)
 - [Clipy](#clipy)
 - [AltTab](#alttab)
-- [BetterDisplay](#betterdisplay) ⭐️
+- [BetterDisplay](#betterdisplay) ⭐️💰
 - [Amazon Q](#amazon-q)
 - [Ice](#ice) ⭐️
 - [Grab2Text](#grab2text) ⭐️
 - [Macs Fan Control](#macs-fan-control)
-- [Mac Mouse Fix](#mac-mouse-fix) ⭐️
+- [Mac Mouse Fix](#mac-mouse-fix) ⭐️💰
 - [Itsycal](#itsycal)
 - [System Settings](#system-settings)
   - [Dock Hide/Show Animation Speed](#dock-speed) ⭐️
@@ -39,6 +39,8 @@ These recommendations work best on the latest macOS versions and Apple Silicon d
 
 
 > ⭐️ Highly recommended
+> 
+> 💰 Purchased the premium version
 
 
 
