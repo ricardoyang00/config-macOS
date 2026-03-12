@@ -1,10 +1,12 @@
-# Configurate your MAC
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=0:AF52DE,100:007AFF&text=Configurate%20your%20Mac&fontColor=ffffff&fontSize=50&fontAlignY=50&animation=fadeIn)
+  
+</div>
 
-<p align="center"><img src="docs/logo.png" width=150px></p> 
 
+# Configurate your Mac
 
-
-## What you can find here?
 Find essential apps and settings to make your **MacBook** or **Mac** more productive and easy to use.
 
 ## Device Information
