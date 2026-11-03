@@ -15,6 +15,7 @@ My essential app and system settings pack to boost productivity on macOS.
 - [System \& Hardware](#system--hardware)
 - [AI \& Development](#ai--development)
 - [Network \& Browsers](#network--browsers)
+- [System Tweaks](#system-tweaks)
 
 ## Windows & Display
 - [AltTab](https://alt-tab.app) - Windows-style Alt-Tab for macOS. (`Note:` v11 introduced a Pro version; I highly recommend staying on v10. The binary was removed from the repo, but you can get it from the Nix package cache [here](https://github.com/user-attachments/files/28276128/AltTab-10.12.0.zip).) [![Open-Source Software][OSS Icon]](https://github.com/lwouis/alt-tab-macos) ![Recommended][Recommended Icon]
@@ -52,6 +53,10 @@ My essential app and system settings pack to boost productivity on macOS.
 - [Vivaldi](https://vivaldi.com) - Chromium-based browser. I don't know why I like it, but I've never had any issues with it.
 
 ---
+
+## System Tweaks
+- [Dock Speed](tweaks/dock-speed.md) - Make the Dock reappear instantly (or faster) when auto-hidden. ![Recommended][Recommended Icon]
+- [Fast Space Shift](tweaks/fast-space-shift.md) - Remove the slow animation when switching between Spaces, using yabai + skhd.
 
 ## License <!-- omit from toc -->
 This project is licensed under the [MIT License](LICENSE).
