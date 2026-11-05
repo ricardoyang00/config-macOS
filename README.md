@@ -1,7 +1,7 @@
 # config-macOS <!-- omit from toc -->
 My essential app and system settings pack to boost productivity on macOS.
 
-[![Updated](svg/updated.svg)](#) [![macOS](https://img.shields.io/badge/macOS-26%20Compatible-007AFF?logo=apple&logoColor=white?style=square)](#) [![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-Optimized-BF5AF2?logo=apple&logoColor=white?style=square)](#)
+[![Updated](svg/updated.svg)](#) [![macOS](https://img.shields.io/badge/macOS-26%20Compatible-007AFF?logo=apple&logoColor=white?style=square)](#) [![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-Optimized-BF5AF2?logo=apple&logoColor=white?style=square)](#) [![Read the full guide](https://img.shields.io/badge/Full%20Guide-Explore-FF9500?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDRoNmE0IDQgMCAwIDEgNCA0djEyYTMgMyAwIDAgMC0zLTNIMnoiLz48cGF0aCBkPSJNMjIgNGgtNmE0IDQgMCAwIDAtNCA0djEyYTMgMyAwIDAgMSAzLTNoN3oiLz48L3N2Zz4%3D)](https://277477.xyz/journal/macos-setup/)
 
 ![Open-Source Software][OSS Icon] **open source**, click to open the repo;\
 ![App Store][app-store Icon] **App Store** link;\
