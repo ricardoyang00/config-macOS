@@ -45,6 +45,7 @@ My essential app and system settings pack to boost productivity on macOS.
 
 ## AI & Development
 - [claude-usage](https://github.com/phuryn/claude-usage) - Local dashboard (CLI + web) to track Claude Code token usage, costs, and session history. [![Open-Source Software][OSS Icon]](https://github.com/phuryn/claude-usage)
+- [Token Monitor](http://javis-ai.com/token-monitor/) - Live dashboard for token usage, costs, and limits across coding agents (Claude Code, Codex, Cursor, etc.). [![Open-Source Software][OSS Icon]](https://github.com/Javis603/token-monitor)
 - [LM Studio](https://lmstudio.ai) - Discover, download, and run LLMs locally. Very easy to use and connects to other devices via LM Link. Learn more [here](https://277477.xyz/journal/claude-nvidia/).
 
 ## Network & Browsers
