@@ -35,6 +35,7 @@ My essential app and system settings pack to boost productivity on macOS.
 - [Cap](https://cap.so) - Screen recorder with an integrated editor, excellent for quick edits and software demo videos. [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/cap)
 - [Clipy](https://clipy-app.com) - Clipboard history, restore anything you copied before. [![Open-Source Software][OSS Icon]](https://github.com/clipy/clipy) ![Recommended][Recommended Icon]
 - [Grab2Text](https://www.softwarehow.com/grab2text/) - Copy text from images or any document using OCR. ![Recommended][Recommended Icon]
+- [IINA](https://iina.io) - Modern video player with great trackpad gestures: swipe to scrub the timeline, pinch to resize, way smoother than QuickTime for watching movies. Plays almost any format. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
 - [Shottr](https://shottr.cc) - A better-than-native screenshot tool. ![Recommended][Recommended Icon]
 
 ## System & Hardware
@@ -46,6 +47,7 @@ My essential app and system settings pack to boost productivity on macOS.
 ## AI & Development
 - [claude-usage](https://github.com/phuryn/claude-usage) - Local dashboard (CLI + web) to track Claude Code token usage, costs, and session history. [![Open-Source Software][OSS Icon]](https://github.com/phuryn/claude-usage)
 - [Token Monitor](http://javis-ai.com/token-monitor/) - Live dashboard for token usage, costs, and limits across coding agents (Claude Code, Codex, Cursor, etc.). [![Open-Source Software][OSS Icon]](https://github.com/Javis603/token-monitor)
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) - A cute little buddy in your notch that tracks your coding agents (Claude Code, Codex), pings you when they need you, and shows your usage. [![Open-Source Software][OSS Icon]](https://github.com/deepshal99/notch-so-good)
 - [LM Studio](https://lmstudio.ai) - Discover, download, and run LLMs locally. Very easy to use and connects to other devices via LM Link. Learn more [here](https://277477.xyz/journal/claude-nvidia/).
 
 ## Network & Browsers
