@@ -37,6 +37,7 @@ My essential app and system settings pack to boost productivity on macOS.
 - [Grab2Text](https://www.softwarehow.com/grab2text/) - Copy text from images or any document using OCR. ![Recommended][Recommended Icon]
 - [IINA](https://iina.io) - Modern video player with great trackpad gestures: swipe to scrub the timeline, pinch to resize, way smoother than QuickTime for watching movies. Plays almost any format. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
 - [Shottr](https://shottr.cc) - A better-than-native screenshot tool. ![Recommended][Recommended Icon]
+- [Applite](https://github.com/milanvarady/applite) - An App Store for Homebrew software, with lots of open-source apps. [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/applite)
 
 ## System & Hardware
 - [AlDente](https://apphousekitchen.com) - Full control over your MacBook battery; set charge limits to prolong battery lifespan. [![Open-Source Software][OSS Icon]](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) ![Recommended][Recommended Icon]
